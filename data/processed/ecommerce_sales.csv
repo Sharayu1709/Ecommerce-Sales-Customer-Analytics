@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_segment,city,category,product,quantity,unit_price,discount_percent,sales,cost,profit,payment_method,order_status,shipping_days
+ORD00001,2025-11-24,CUST0045,Returning,Pune,Electronics,Wireless Mouse,3,18.99,0.0,56.97,28.5,28.47,UPI,Delivered,2.0
+ORD00002,2025-02-17,CUST0113,Returning,Delhi,Home & Kitchen,Coffee Maker,2,79.99,0.0,159.98,96.0,63.98,UPI,Delivered,7.0
+ORD00003,2025-03-23,CUST0048,Returning,Chennai,Books,Python for Beginners,1,27.99,0.0,27.99,11.0,16.99,Debit Card,Delivered,2.0
+ORD00004,2025-11-06,CUST0151,Loyal,Kochi,Clothing,Cotton T-Shirt,3,19.99,5.0,56.97,24.0,32.97,Debit Card,Delivered,2.0
+ORD00005,2025-10-23,CUST0120,Loyal,Jaipur,Home & Kitchen,Water Bottle,1,16.99,0.0,16.99,7.0,9.99,Debit Card,Delivered,2.0
+ORD00006,2025-08-21,CUST0088,Returning,Hyderabad,Clothing,Hoodie,1,39.99,0.0,39.99,19.0,20.99,Credit Card,Delivered,2.0
+ORD00007,2025-08-25,CUST0113,Returning,Pune,Books,Python for Beginners,5,27.99,10.0,125.95,55.0,70.95,Credit Card,Cancelled,
+ORD00008,2025-01-17,CUST0162,New,Ahmedabad,Clothing,Backpack,1,44.99,0.0,44.99,23.0,21.99,Cash on Delivery,Cancelled,
+ORD00009,2025-11-26,CUST0135,Returning,Jaipur,Books,Business Strategy Guide,1,29.99,0.0,29.99,13.0,16.99,Net Banking,Cancelled,
+ORD00010,2025-07-24,CUST0025,Loyal,Bengaluru,Clothing,Hoodie,5,39.99,0.0,199.95,95.0,104.95,Credit Card,Delivered,2.0
+ORD00011,2025-12-15,CUST0006,Returning,Mumbai,Books,Marketing Essentials,1,22.99,5.0,21.84,9.0,12.84,Net Banking,Delivered,5.0
+ORD00012,2025-05-17,CUST0257,Loyal,Kolkata,Clothing,Cotton T-Shirt,1,19.99,0.0,19.99,8.0,11.99,UPI,Delivered,5.0
+ORD00013,2025-11-17,CUST0166,Returning,Mumbai,Clothing,Jeans,2,49.99,0.0,99.98,52.0,47.98,Debit Card,Delivered,1.0
+ORD00014,2025-06-07,CUST0249,Loyal,Kolkata,Home & Kitchen,Water Bottle,1,16.99,10.0,15.29,7.0,8.29,Credit Card,Delivered,2.0
+ORD00015,2025-03-07,CUST0217,Loyal,Kolkata,Books,Marketing Essentials,1,22.99,5.0,21.84,9.0,12.84,Credit Card,Cancelled,
+ORD00016,2025-06-09,CUST0116,New,Pune,Books,Python for Beginners,2,27.99,5.0,53.18,22.0,31.18,Net Banking,Delivered,4.0
+ORD00017,2025-10-11,CUST0118,New,Pune,Home & Kitchen,Blender,1,64.99,0.0,64.99,39.0,25.99,Debit Card,Returned,1.0
+ORD00018,2025-02-06,CUST0068,Returning,Kochi,Sports,Resistance Bands,1,14.99,5.0,14.24,5.5,8.74,Net Banking,Cancelled,
+ORD00019,2025-08-31,CUST0182,Returning,Ahmedabad,Home & Kitchen,Desk Lamp,3,29.99,0.0,89.97,42.0,47.97,UPI,Delivered,7.0
+ORD00020,2025-12-11,CUST0099,New,Ahmedabad,Electronics,Wireless Mouse,1,18.99,0.0,18.99,9.5,9.49,Credit Card,Delivered,4.0
+ORD00021,2025-08-05,CUST0051,New,Kolkata,Home & Kitchen,Storage Box,2,12.99,15.0,22.08,11.0,11.08,UPI,Delivered,8.0
+ORD00022,2025-02-17,CUST0085,Returning,Jaipur,Home & Kitchen,Coffee Maker,1,79.99,5.0,75.99,48.0,27.99,Debit Card,Delivered,1.0
+ORD00023,2025-08-21,CUST0250,New,Delhi,Clothing,Backpack,2,44.99,10.0,80.98,46.0,34.98,Credit Card,Cancelled,
+ORD00024,2025-01-30,CUST0258,Loyal,Kolkata,Sports,Fitness Tracker,1,89.99,0.0,89.99,55.0,34.99,Credit Card,Delivered,8.0
+ORD00025,2025-01-30,CUST0207,New,Kochi,Sports,Yoga Mat,3,27.99,0.0,83.97,36.0,47.97,Credit Card,Delivered,4.0
+ORD00026,2025-10-24,CUST0162,Loyal,Hyderabad,Sports,Yoga Mat,2,27.99,5.0,53.18,24.0,29.18,Debit Card,Cancelled,
+ORD00027,2025-05-03,CUST0038,New,Kochi,Clothing,Backpack,1,44.99,10.0,40.49,23.0,17.49,Net Banking,Delivered,6.0
+ORD00028,2025-02-21,CUST0126,Returning,Bengaluru,Electronics,Webcam,1,59.99,0.0,59.99,35.0,24.99,Cash on Delivery,Delivered,2.0
+ORD00029,2025-10-06,CUST0005,Returning,Kolkata,Clothing,Jeans,5,49.99,15.0,212.46,130.0,82.46,Debit Card,Cancelled,
+ORD00030,2025-12-06,CUST0140,New,Hyderabad,Electronics,Bluetooth Headphones,1,49.99,15.0,42.49,28.0,14.49,Debit Card,Returned,3.0
+ORD00031,2025-04-15,CUST0217,Loyal,Pune,Clothing,Jeans,2,49.99,15.0,84.98,52.0,32.98,UPI,Delivered,2.0
+ORD00032,2025-06-20,CUST0005,New,Bengaluru,Home & Kitchen,Storage Box,1,12.99,5.0,12.34,5.5,6.84,Net Banking,Returned,7.0
+ORD00033,2025-01-19,CUST0187,Loyal,Pune,Clothing,Jeans,2,49.99,5.0,94.98,52.0,42.98,Debit Card,Delivered,5.0
+ORD00034,2025-04-18,CUST0122,Loyal,Bengaluru,Home & Kitchen,Water Bottle,1,16.99,10.0,15.29,7.0,8.29,Cash on Delivery,Delivered,3.0
+ORD00035,2025-01-13,CUST0137,New,Mumbai,Home & Kitchen,Storage Box,3,12.99,5.0,37.02,16.5,20.52,Cash on Delivery,Returned,4.0
+ORD00036,2025-01-20,CUST0117,New,Hyderabad,Books,Business Strategy Guide,1,29.99,15.0,25.49,13.0,12.49,Cash on Delivery,Delivered,5.0
+ORD00037,2025-06-18,CUST0170,Loyal,Mumbai,Clothing,Cotton T-Shirt,5,19.99,0.0,99.95,40.0,59.95,Debit Card,Returned,7.0
+ORD00038,2025-04-02,CUST0224,Returning,Kolkata,Sports,Gym Bottle,1,11.99,10.0,10.79,4.0,6.79,UPI,Delivered,6.0
+ORD00039,2025-07-17,CUST0187,Returning,Chennai,Sports,Resistance Bands,1,14.99,10.0,13.49,5.5,7.99,Net Banking,Delivered,4.0
+ORD00040,2025-06-10,CUST0152,Returning,Hyderabad,Electronics,USB-C Charger,2,22.5,10.0,40.5,22.5,18.0,Cash on Delivery,Delivered,7.0
+ORD00041,2025-12-07,CUST0001,New,Hyderabad,Books,Business Strategy Guide,2,29.99,0.0,59.98,26.0,33.98,Cash on Delivery,Cancelled,
+ORD00042,2025-10-24,CUST0087,Returning,Delhi,Sports,Gym Bottle,2,11.99,5.0,22.78,8.0,14.78,Net Banking,Delivered,8.0
+ORD00043,2025-12-06,CUST0116,Loyal,Bengaluru,Sports,Gym Bottle,1,11.99,20.0,9.59,4.0,5.59,UPI,Delivered,5.0
+ORD00044,2025-01-24,CUST0100,Returning,Jaipur,Home & Kitchen,Desk Lamp,2,29.99,10.0,53.98,28.0,25.98,Cash on Delivery,Delivered,7.0
+ORD00045,2025-07-24,CUST0113,New,Kolkata,Home & Kitchen,Coffee Maker,2,79.99,0.0,159.98,96.0,63.98,Cash on Delivery,Delivered,7.0
+ORD00046,2025-01-26,CUST0163,Loyal,Ahmedabad,Sports,Resistance Bands,4,14.99,0.0,59.96,22.0,37.96,Net Banking,Delivered,8.0
+ORD00047,2025-09-16,CUST0133,Loyal,Delhi,Books,Marketing Essentials,2,22.99,0.0,45.98,18.0,27.98,Net Banking,Delivered,8.0
+ORD00048,2025-09-06,CUST0172,New,Kolkata,Home & Kitchen,Storage Box,2,12.99,10.0,23.38,11.0,12.38,UPI,Delivered,5.0
+ORD00049,2025-03-12,CUST0213,Returning,Kolkata,Home & Kitchen,Coffee Maker,1,79.99,0.0,79.99,48.0,31.99,Cash on Delivery,Delivered,2.0
+ORD00050,2025-08-01,CUST0011,Loyal,Kochi,Electronics,Bluetooth Headphones,3,49.99,5.0,142.47,84.0,58.47,Cash on Delivery,Cancelled,
+ORD00051,2025-09-02,CUST0250,New,Jaipur,Electronics,USB-C Charger,1,22.5,5.0,21.38,11.25,10.13,Cash on Delivery,Delivered,4.0
+ORD00052,2025-01-15,CUST0240,Loyal,Kochi,Books,Python for Beginners,2,27.99,10.0,50.38,22.0,28.38,Net Banking,Returned,3.0
+ORD00053,2025-01-14,CUST0070,Loyal,Bengaluru,Books,Marketing Essentials,2,22.99,0.0,45.98,18.0,27.98,UPI,Returned,7.0
+ORD00054,2025-05-14,CUST0216,New,Mumbai,Books,Python for Beginners,1,27.99,0.0,27.99,11.0,16.99,Cash on Delivery,Delivered,5.0
+ORD00055,2025-01-10,CUST0021,Loyal,Hyderabad,Sports,Yoga Mat,5,27.99,0.0,139.95,60.0,79.95,Credit Card,Returned,2.0
+ORD00056,2025-01-11,CUST0239,Returning,Chennai,Sports,Resistance Bands,1,14.99,5.0,14.24,5.5,8.74,Credit Card,Delivered,4.0
+ORD00057,2025-11-07,CUST0014,Loyal,Kochi,Sports,Yoga Mat,3,27.99,0.0,83.97,36.0,47.97,Cash on Delivery,Delivered,2.0
+ORD00058,2025-07-23,CUST0155,Loyal,Kochi,Home & Kitchen,Water Bottle,2,16.99,15.0,28.88,14.0,14.88,UPI,Delivered,2.0
+ORD00059,2025-10-17,CUST0007,Loyal,Ahmedabad,Electronics,USB-C Charger,2,22.5,10.0,40.5,22.5,18.0,UPI,Delivered,6.0
+ORD00060,2025-08-10,CUST0248,Returning,Kochi,Clothing,Backpack,2,44.99,5.0,85.48,46.0,39.48,Debit Card,Returned,5.0
+ORD00061,2025-06-15,CUST0173,New,Chennai,Home & Kitchen,Water Bottle,1,16.99,5.0,16.14,7.0,9.14,Credit Card,Delivered,7.0
+ORD00062,2025-09-07,CUST0142,Returning,Kolkata,Home & Kitchen,Storage Box,3,12.99,0.0,38.97,16.5,22.47,Credit Card,Cancelled,
+ORD00063,2025-02-13,CUST0252,Returning,Pune,Home & Kitchen,Desk Lamp,2,29.99,10.0,53.98,28.0,25.98,UPI,Returned,8.0
+ORD00064,2025-05-31,CUST0189,Returning,Kolkata,Home & Kitchen,Desk Lamp,2,29.99,0.0,59.98,28.0,31.98,Debit Card,Cancelled,
+ORD00065,2025-08-06,CUST0119,New,Hyderabad,Sports,Gym Bottle,1,11.99,5.0,11.39,4.0,7.39,Debit Card,Delivered,5.0
+ORD00066,2025-03-03,CUST0052,Loyal,Delhi,Sports,Resistance Bands,1,14.99,10.0,13.49,5.5,7.99,Credit Card,Delivered,5.0
+ORD00067,2025-07-04,CUST0028,Returning,Bengaluru,Home & Kitchen,Storage Box,1,12.99,5.0,12.34,5.5,6.84,Cash on Delivery,Delivered,1.0
+ORD00068,2025-02-22,CUST0027,New,Ahmedabad,Electronics,Webcam,1,59.99,5.0,56.99,35.0,21.99,UPI,Delivered,3.0
+ORD00069,2025-02-03,CUST0077,Loyal,Delhi,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,UPI,Delivered,3.0
+ORD00070,2025-05-08,CUST0116,Loyal,Jaipur,Electronics,Webcam,3,59.99,10.0,161.97,105.0,56.97,Cash on Delivery,Cancelled,
+ORD00071,2025-08-15,CUST0031,Returning,Mumbai,Clothing,Jeans,5,49.99,0.0,249.95,130.0,119.95,Credit Card,Cancelled,
+ORD00072,2025-11-17,CUST0081,New,Ahmedabad,Home & Kitchen,Storage Box,2,12.99,0.0,25.98,11.0,14.98,Net Banking,Delivered,2.0
+ORD00073,2025-08-29,CUST0037,Returning,Delhi,Clothing,Cotton T-Shirt,1,19.99,10.0,17.99,8.0,9.99,Net Banking,Returned,8.0
+ORD00074,2025-12-05,CUST0073,New,Bengaluru,Home & Kitchen,Desk Lamp,1,29.99,0.0,29.99,14.0,15.99,Debit Card,Delivered,5.0
+ORD00075,2025-11-01,CUST0140,Returning,Ahmedabad,Sports,Gym Bottle,2,11.99,5.0,22.78,8.0,14.78,Cash on Delivery,Delivered,7.0
+ORD00076,2025-02-11,CUST0129,New,Hyderabad,Sports,Yoga Mat,4,27.99,10.0,100.76,48.0,52.76,Net Banking,Cancelled,
+ORD00077,2025-10-28,CUST0227,Loyal,Bengaluru,Electronics,USB-C Charger,2,22.5,10.0,40.5,22.5,18.0,Net Banking,Delivered,8.0
+ORD00078,2025-08-12,CUST0083,New,Ahmedabad,Books,Data Analytics Basics,2,24.99,5.0,47.48,20.0,27.48,Debit Card,Delivered,2.0
+ORD00079,2025-12-06,CUST0060,Loyal,Jaipur,Books,Marketing Essentials,1,22.99,0.0,22.99,9.0,13.99,Net Banking,Delivered,6.0
+ORD00080,2025-01-01,CUST0227,Loyal,Hyderabad,Sports,Skipping Rope,1,9.99,0.0,9.99,3.5,6.49,Debit Card,Delivered,8.0
+ORD00081,2025-10-09,CUST0123,Returning,Delhi,Home & Kitchen,Storage Box,2,12.99,10.0,23.38,11.0,12.38,Net Banking,Delivered,1.0
+ORD00082,2025-01-08,CUST0061,Returning,Bengaluru,Sports,Skipping Rope,1,9.99,20.0,7.99,3.5,4.49,Cash on Delivery,Delivered,8.0
+ORD00083,2025-05-30,CUST0234,Returning,Jaipur,Sports,Gym Bottle,1,11.99,5.0,11.39,4.0,7.39,Credit Card,Delivered,4.0
+ORD00084,2025-11-03,CUST0260,New,Pune,Sports,Resistance Bands,3,14.99,0.0,44.97,16.5,28.47,Debit Card,Delivered,6.0
+ORD00085,2025-06-02,CUST0248,New,Kolkata,Sports,Fitness Tracker,5,89.99,5.0,427.45,275.0,152.45,Net Banking,Delivered,8.0
+ORD00086,2025-07-13,CUST0120,Loyal,Jaipur,Books,Python for Beginners,3,27.99,20.0,67.18,33.0,34.18,UPI,Delivered,7.0
+ORD00087,2025-06-12,CUST0254,Loyal,Bengaluru,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,Net Banking,Returned,3.0
+ORD00088,2025-10-30,CUST0234,New,Bengaluru,Clothing,Cotton T-Shirt,3,19.99,5.0,56.97,24.0,32.97,Cash on Delivery,Cancelled,
+ORD00089,2025-12-02,CUST0042,Loyal,Kolkata,Home & Kitchen,Water Bottle,2,16.99,20.0,27.18,14.0,13.18,Cash on Delivery,Delivered,7.0
+ORD00090,2025-06-12,CUST0117,Returning,Jaipur,Books,Marketing Essentials,1,22.99,0.0,22.99,9.0,13.99,UPI,Returned,5.0
+ORD00091,2025-11-21,CUST0167,Loyal,Delhi,Electronics,Laptop Stand,1,34.99,0.0,34.99,18.0,16.99,Debit Card,Delivered,1.0
+ORD00092,2025-07-11,CUST0088,New,Kochi,Books,Business Strategy Guide,1,29.99,5.0,28.49,13.0,15.49,Cash on Delivery,Returned,3.0
+ORD00093,2025-11-14,CUST0236,New,Pune,Home & Kitchen,Desk Lamp,4,29.99,0.0,119.96,56.0,63.96,Cash on Delivery,Delivered,5.0
+ORD00094,2025-05-28,CUST0154,Returning,Jaipur,Sports,Resistance Bands,1,14.99,15.0,12.74,5.5,7.24,Debit Card,Cancelled,
+ORD00095,2025-08-22,CUST0196,Returning,Kochi,Clothing,Hoodie,5,39.99,15.0,169.96,95.0,74.96,Debit Card,Delivered,4.0
+ORD00096,2025-12-25,CUST0026,Loyal,Ahmedabad,Clothing,Cotton T-Shirt,5,19.99,10.0,89.95,40.0,49.95,Debit Card,Delivered,1.0
+ORD00097,2025-04-28,CUST0050,Loyal,Pune,Sports,Gym Bottle,1,11.99,0.0,11.99,4.0,7.99,Debit Card,Delivered,3.0
+ORD00098,2025-08-14,CUST0213,New,Bengaluru,Electronics,Webcam,1,59.99,0.0,59.99,35.0,24.99,Net Banking,Delivered,6.0
+ORD00099,2025-07-07,CUST0152,Returning,Chennai,Sports,Fitness Tracker,4,89.99,15.0,305.97,220.0,85.97,UPI,Delivered,8.0
+ORD00100,2025-08-28,CUST0188,New,Jaipur,Electronics,Bluetooth Headphones,3,49.99,0.0,149.97,84.0,65.97,UPI,Returned,7.0
+ORD00101,2025-05-16,CUST0196,Loyal,Chennai,Sports,Yoga Mat,2,27.99,10.0,50.38,24.0,26.38,UPI,Returned,5.0
+ORD00102,2025-12-12,CUST0168,Loyal,Hyderabad,Home & Kitchen,Desk Lamp,1,29.99,15.0,25.49,14.0,11.49,UPI,Cancelled,
+ORD00103,2025-11-22,CUST0156,Loyal,Mumbai,Books,Python for Beginners,2,27.99,0.0,55.98,22.0,33.98,UPI,Delivered,1.0
+ORD00104,2025-05-01,CUST0080,Loyal,Mumbai,Sports,Resistance Bands,1,14.99,5.0,14.24,5.5,8.74,Cash on Delivery,Returned,7.0
+ORD00105,2025-11-12,CUST0121,Loyal,Mumbai,Books,Python for Beginners,1,27.99,5.0,26.59,11.0,15.59,Debit Card,Delivered,8.0
+ORD00106,2025-10-06,CUST0047,Returning,Kochi,Clothing,Cotton T-Shirt,1,19.99,0.0,19.99,8.0,11.99,UPI,Delivered,8.0
+ORD00107,2025-01-26,CUST0107,Returning,Hyderabad,Clothing,Hoodie,5,39.99,10.0,179.96,95.0,84.96,Debit Card,Delivered,2.0
+ORD00108,2025-03-17,CUST0090,New,Pune,Sports,Yoga Mat,1,27.99,20.0,22.39,12.0,10.39,Credit Card,Delivered,5.0
+ORD00109,2025-01-08,CUST0065,Returning,Kolkata,Clothing,Hoodie,2,39.99,0.0,79.98,38.0,41.98,UPI,Delivered,1.0
+ORD00110,2025-02-02,CUST0258,New,Kochi,Books,Productivity Journal,3,14.99,5.0,42.72,15.0,27.72,UPI,Delivered,8.0
+ORD00111,2025-12-04,CUST0206,Returning,Mumbai,Sports,Gym Bottle,2,11.99,20.0,19.18,8.0,11.18,Cash on Delivery,Delivered,8.0
+ORD00112,2025-12-31,CUST0065,New,Kochi,Books,Data Analytics Basics,4,24.99,0.0,99.96,40.0,59.96,Net Banking,Delivered,2.0
+ORD00113,2025-12-31,CUST0051,Loyal,Mumbai,Clothing,Backpack,5,44.99,5.0,213.7,115.0,98.7,Net Banking,Delivered,7.0
+ORD00114,2025-04-21,CUST0213,Returning,Chennai,Books,Productivity Journal,4,14.99,5.0,56.96,20.0,36.96,Cash on Delivery,Delivered,7.0
+ORD00115,2025-06-10,CUST0047,Loyal,Mumbai,Clothing,Running Shoes,4,74.99,10.0,269.96,168.0,101.96,Cash on Delivery,Delivered,2.0
+ORD00116,2025-02-19,CUST0169,Returning,Jaipur,Clothing,Hoodie,2,39.99,10.0,71.98,38.0,33.98,Debit Card,Cancelled,
+ORD00117,2025-12-07,CUST0260,New,Ahmedabad,Books,Data Analytics Basics,5,24.99,10.0,112.45,50.0,62.45,Credit Card,Delivered,2.0
+ORD00118,2025-02-25,CUST0116,Loyal,Kolkata,Clothing,Jeans,1,49.99,10.0,44.99,26.0,18.99,Net Banking,Cancelled,
+ORD00119,2025-11-11,CUST0015,New,Delhi,Sports,Yoga Mat,2,27.99,10.0,50.38,24.0,26.38,Debit Card,Returned,5.0
+ORD00120,2025-06-29,CUST0073,Returning,Pune,Electronics,Bluetooth Headphones,3,49.99,10.0,134.97,84.0,50.97,UPI,Delivered,2.0
+ORD00121,2025-09-29,CUST0167,Loyal,Kochi,Home & Kitchen,Desk Lamp,1,29.99,0.0,29.99,14.0,15.99,Net Banking,Delivered,5.0
+ORD00122,2025-02-13,CUST0140,Returning,Jaipur,Electronics,Bluetooth Headphones,1,49.99,10.0,44.99,28.0,16.99,Cash on Delivery,Returned,2.0
+ORD00123,2025-11-07,CUST0221,New,Kochi,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,Cash on Delivery,Delivered,6.0
+ORD00124,2025-09-27,CUST0105,New,Hyderabad,Clothing,Cotton T-Shirt,1,19.99,20.0,15.99,8.0,7.99,Credit Card,Delivered,1.0
+ORD00125,2025-05-11,CUST0067,Returning,Hyderabad,Clothing,Running Shoes,1,74.99,5.0,71.24,42.0,29.24,Net Banking,Delivered,3.0
+ORD00126,2025-10-14,CUST0236,Loyal,Chennai,Clothing,Cotton T-Shirt,1,19.99,10.0,17.99,8.0,9.99,Net Banking,Delivered,1.0
+ORD00127,2025-08-08,CUST0011,Loyal,Bengaluru,Sports,Skipping Rope,2,9.99,5.0,18.98,7.0,11.98,Net Banking,Delivered,7.0
+ORD00128,2025-08-24,CUST0041,Returning,Delhi,Clothing,Cotton T-Shirt,2,19.99,0.0,39.98,16.0,23.98,Debit Card,Delivered,7.0
+ORD00129,2025-04-24,CUST0100,Loyal,Chennai,Clothing,Hoodie,1,39.99,10.0,35.99,19.0,16.99,Debit Card,Cancelled,
+ORD00130,2025-11-27,CUST0039,New,Ahmedabad,Home & Kitchen,Coffee Maker,1,79.99,0.0,79.99,48.0,31.99,Cash on Delivery,Delivered,3.0
+ORD00131,2025-10-16,CUST0162,New,Mumbai,Sports,Skipping Rope,2,9.99,15.0,16.98,7.0,9.98,Cash on Delivery,Returned,6.0
+ORD00132,2025-08-15,CUST0237,Returning,Pune,Clothing,Running Shoes,2,74.99,5.0,142.48,84.0,58.48,Debit Card,Delivered,5.0
+ORD00133,2025-05-27,CUST0231,Loyal,Kochi,Electronics,Wireless Mouse,2,18.99,5.0,36.08,19.0,17.08,Credit Card,Delivered,1.0
+ORD00134,2025-06-14,CUST0176,Loyal,Mumbai,Sports,Skipping Rope,2,9.99,20.0,15.98,7.0,8.98,Net Banking,Delivered,2.0
+ORD00135,2025-11-27,CUST0187,Returning,Delhi,Home & Kitchen,Water Bottle,1,16.99,5.0,16.14,7.0,9.14,Cash on Delivery,Delivered,3.0
+ORD00136,2025-07-29,CUST0169,New,Jaipur,Clothing,Jeans,1,49.99,10.0,44.99,26.0,18.99,Debit Card,Delivered,2.0
+ORD00137,2025-05-10,CUST0159,Loyal,Jaipur,Sports,Resistance Bands,1,14.99,10.0,13.49,5.5,7.99,Credit Card,Delivered,6.0
+ORD00138,2025-11-01,CUST0048,Returning,Jaipur,Electronics,USB-C Charger,2,22.5,10.0,40.5,22.5,18.0,Net Banking,Delivered,3.0
+ORD00139,2025-07-05,CUST0099,New,Bengaluru,Electronics,USB-C Charger,1,22.5,20.0,18.0,11.25,6.75,Credit Card,Delivered,8.0
+ORD00140,2025-02-09,CUST0173,Loyal,Kochi,Clothing,Cotton T-Shirt,2,19.99,5.0,37.98,16.0,21.98,Credit Card,Returned,1.0
+ORD00141,2025-11-02,CUST0085,Returning,Pune,Books,Business Strategy Guide,1,29.99,15.0,25.49,13.0,12.49,Cash on Delivery,Cancelled,
+ORD00142,2025-07-06,CUST0123,New,Ahmedabad,Home & Kitchen,Desk Lamp,2,29.99,10.0,53.98,28.0,25.98,Credit Card,Delivered,4.0
+ORD00143,2025-07-08,CUST0083,Loyal,Kochi,Sports,Skipping Rope,2,9.99,0.0,19.98,7.0,12.98,Credit Card,Delivered,7.0
+ORD00144,2025-05-09,CUST0146,New,Bengaluru,Electronics,Laptop Stand,3,34.99,10.0,94.47,54.0,40.47,Debit Card,Delivered,2.0
+ORD00145,2025-08-19,CUST0179,Loyal,Jaipur,Sports,Resistance Bands,3,14.99,0.0,44.97,16.5,28.47,UPI,Delivered,8.0
+ORD00146,2025-07-22,CUST0015,New,Mumbai,Sports,Gym Bottle,1,11.99,20.0,9.59,4.0,5.59,Debit Card,Delivered,4.0
+ORD00147,2025-03-16,CUST0241,Returning,Pune,Home & Kitchen,Water Bottle,1,16.99,15.0,14.44,7.0,7.44,UPI,Returned,3.0
+ORD00148,2025-01-10,CUST0057,Loyal,Hyderabad,Clothing,Hoodie,3,39.99,5.0,113.97,57.0,56.97,Debit Card,Returned,7.0
+ORD00149,2025-03-04,CUST0057,Loyal,Ahmedabad,Electronics,Bluetooth Headphones,1,49.99,10.0,44.99,28.0,16.99,Net Banking,Delivered,2.0
+ORD00150,2025-10-02,CUST0001,Returning,Hyderabad,Electronics,Webcam,2,59.99,10.0,107.98,70.0,37.98,Net Banking,Delivered,7.0
+ORD00151,2025-08-02,CUST0260,Loyal,Kolkata,Home & Kitchen,Water Bottle,2,16.99,5.0,32.28,14.0,18.28,Net Banking,Cancelled,
+ORD00152,2025-01-11,CUST0009,Returning,Mumbai,Books,Productivity Journal,1,14.99,5.0,14.24,5.0,9.24,Debit Card,Delivered,5.0
+ORD00153,2025-05-04,CUST0174,Loyal,Bengaluru,Electronics,Webcam,3,59.99,0.0,179.97,105.0,74.97,Cash on Delivery,Delivered,6.0
+ORD00154,2025-12-23,CUST0151,New,Hyderabad,Books,Business Strategy Guide,3,29.99,0.0,89.97,39.0,50.97,UPI,Delivered,1.0
+ORD00155,2025-06-11,CUST0019,Loyal,Hyderabad,Clothing,Jeans,1,49.99,15.0,42.49,26.0,16.49,Debit Card,Delivered,5.0
+ORD00156,2025-07-02,CUST0226,Loyal,Jaipur,Electronics,USB-C Charger,1,22.5,10.0,20.25,11.25,9.0,Debit Card,Delivered,7.0
+ORD00157,2025-04-06,CUST0218,New,Kochi,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,Credit Card,Delivered,2.0
+ORD00158,2025-10-07,CUST0229,Returning,Jaipur,Clothing,Running Shoes,1,74.99,0.0,74.99,42.0,32.99,Credit Card,Delivered,5.0
+ORD00159,2025-12-20,CUST0141,Returning,Pune,Books,Python for Beginners,2,27.99,10.0,50.38,22.0,28.38,UPI,Delivered,7.0
+ORD00160,2025-12-10,CUST0074,Loyal,Ahmedabad,Books,Python for Beginners,2,27.99,10.0,50.38,22.0,28.38,UPI,Delivered,1.0
+ORD00161,2025-03-06,CUST0079,Returning,Chennai,Electronics,Bluetooth Headphones,3,49.99,5.0,142.47,84.0,58.47,Debit Card,Delivered,1.0
+ORD00162,2025-08-16,CUST0128,Loyal,Pune,Electronics,Webcam,1,59.99,5.0,56.99,35.0,21.99,Credit Card,Delivered,5.0
+ORD00163,2025-09-13,CUST0110,Loyal,Delhi,Sports,Skipping Rope,4,9.99,0.0,39.96,14.0,25.96,Cash on Delivery,Delivered,8.0
+ORD00164,2025-04-13,CUST0045,Loyal,Chennai,Electronics,Bluetooth Headphones,3,49.99,5.0,142.47,84.0,58.47,Debit Card,Returned,8.0
+ORD00165,2025-12-30,CUST0186,Returning,Mumbai,Electronics,Webcam,2,59.99,15.0,101.98,70.0,31.98,Credit Card,Delivered,3.0
+ORD00166,2025-03-13,CUST0067,Returning,Mumbai,Home & Kitchen,Desk Lamp,1,29.99,10.0,26.99,14.0,12.99,UPI,Delivered,8.0
+ORD00167,2025-06-08,CUST0038,New,Chennai,Books,Productivity Journal,2,14.99,10.0,26.98,10.0,16.98,UPI,Cancelled,
+ORD00168,2025-08-19,CUST0094,Loyal,Bengaluru,Books,Marketing Essentials,1,22.99,15.0,19.54,9.0,10.54,Cash on Delivery,Cancelled,
+ORD00169,2025-09-15,CUST0116,New,Kolkata,Electronics,Wireless Mouse,2,18.99,0.0,37.98,19.0,18.98,Debit Card,Delivered,6.0
+ORD00170,2025-02-10,CUST0048,Returning,Bengaluru,Clothing,Hoodie,2,39.99,10.0,71.98,38.0,33.98,Net Banking,Delivered,5.0
+ORD00171,2025-10-25,CUST0173,Loyal,Kochi,Home & Kitchen,Coffee Maker,2,79.99,10.0,143.98,96.0,47.98,UPI,Cancelled,
+ORD00172,2025-01-15,CUST0214,Returning,Pune,Electronics,Wireless Mouse,4,18.99,10.0,68.36,38.0,30.36,Cash on Delivery,Delivered,4.0
+ORD00173,2025-11-18,CUST0153,Returning,Pune,Sports,Gym Bottle,2,11.99,0.0,23.98,8.0,15.98,Credit Card,Delivered,7.0
+ORD00174,2025-08-14,CUST0164,Returning,Chennai,Books,Productivity Journal,2,14.99,0.0,29.98,10.0,19.98,Cash on Delivery,Delivered,6.0
+ORD00175,2025-03-08,CUST0137,Returning,Bengaluru,Clothing,Jeans,2,49.99,0.0,99.98,52.0,47.98,UPI,Delivered,2.0
+ORD00176,2025-01-26,CUST0161,New,Bengaluru,Clothing,Backpack,3,44.99,5.0,128.22,69.0,59.22,Cash on Delivery,Delivered,6.0
+ORD00177,2025-09-21,CUST0259,Returning,Hyderabad,Books,Productivity Journal,3,14.99,5.0,42.72,15.0,27.72,Credit Card,Delivered,7.0
+ORD00178,2025-10-26,CUST0147,Returning,Mumbai,Clothing,Cotton T-Shirt,1,19.99,5.0,18.99,8.0,10.99,Cash on Delivery,Returned,8.0
+ORD00179,2025-03-10,CUST0100,Returning,Delhi,Clothing,Running Shoes,3,74.99,5.0,213.72,126.0,87.72,UPI,Delivered,1.0
+ORD00180,2025-07-17,CUST0061,New,Mumbai,Sports,Skipping Rope,3,9.99,0.0,29.97,10.5,19.47,Cash on Delivery,Cancelled,
+ORD00181,2025-07-11,CUST0257,New,Pune,Clothing,Jeans,4,49.99,10.0,179.96,104.0,75.96,Credit Card,Delivered,7.0
+ORD00182,2025-06-20,CUST0072,New,Kochi,Books,Marketing Essentials,2,22.99,10.0,41.38,18.0,23.38,Debit Card,Cancelled,
+ORD00183,2025-03-25,CUST0154,Returning,Pune,Books,Marketing Essentials,3,22.99,0.0,68.97,27.0,41.97,Debit Card,Delivered,8.0
+ORD00184,2025-06-19,CUST0243,New,Kochi,Electronics,Laptop Stand,2,34.99,10.0,62.98,36.0,26.98,Net Banking,Returned,1.0
+ORD00185,2025-04-27,CUST0076,Loyal,Hyderabad,Electronics,Webcam,2,59.99,5.0,113.98,70.0,43.98,UPI,Returned,7.0
+ORD00186,2025-10-21,CUST0105,Returning,Kochi,Electronics,Bluetooth Headphones,1,49.99,0.0,49.99,28.0,21.99,Cash on Delivery,Delivered,7.0
+ORD00187,2025-02-01,CUST0193,New,Bengaluru,Home & Kitchen,Blender,1,64.99,0.0,64.99,39.0,25.99,Cash on Delivery,Returned,8.0
+ORD00188,2025-09-30,CUST0248,New,Hyderabad,Clothing,Jeans,1,49.99,10.0,44.99,26.0,18.99,Debit Card,Returned,5.0
+ORD00189,2025-10-13,CUST0251,New,Chennai,Clothing,Hoodie,4,39.99,20.0,127.97,76.0,51.97,Net Banking,Delivered,4.0
+ORD00190,2025-05-21,CUST0075,New,Delhi,Clothing,Cotton T-Shirt,2,19.99,5.0,37.98,16.0,21.98,UPI,Delivered,6.0
+ORD00191,2025-06-27,CUST0139,Loyal,Delhi,Books,Python for Beginners,3,27.99,0.0,83.97,33.0,50.97,Credit Card,Cancelled,
+ORD00192,2025-02-25,CUST0116,Returning,Pune,Sports,Fitness Tracker,1,89.99,0.0,89.99,55.0,34.99,UPI,Cancelled,
+ORD00193,2025-07-31,CUST0209,Returning,Ahmedabad,Clothing,Backpack,1,44.99,10.0,40.49,23.0,17.49,Cash on Delivery,Delivered,3.0
+ORD00194,2025-11-30,CUST0020,Loyal,Bengaluru,Home & Kitchen,Storage Box,1,12.99,10.0,11.69,5.5,6.19,Cash on Delivery,Delivered,4.0
+ORD00195,2025-04-01,CUST0020,New,Kochi,Electronics,Laptop Stand,3,34.99,0.0,104.97,54.0,50.97,Net Banking,Returned,5.0
+ORD00196,2025-02-24,CUST0253,Loyal,Bengaluru,Clothing,Running Shoes,2,74.99,10.0,134.98,84.0,50.98,Net Banking,Cancelled,
+ORD00197,2025-08-28,CUST0132,Returning,Pune,Clothing,Hoodie,3,39.99,0.0,119.97,57.0,62.97,Debit Card,Returned,8.0
+ORD00198,2025-06-01,CUST0168,New,Mumbai,Sports,Resistance Bands,1,14.99,15.0,12.74,5.5,7.24,Credit Card,Delivered,7.0
+ORD00199,2025-03-13,CUST0229,Loyal,Chennai,Books,Python for Beginners,4,27.99,0.0,111.96,44.0,67.96,Debit Card,Delivered,4.0
+ORD00200,2025-10-26,CUST0061,Returning,Bengaluru,Sports,Yoga Mat,1,27.99,5.0,26.59,12.0,14.59,Cash on Delivery,Delivered,1.0
+ORD00201,2025-12-18,CUST0114,New,Bengaluru,Sports,Gym Bottle,2,11.99,10.0,21.58,8.0,13.58,Cash on Delivery,Delivered,6.0
+ORD00202,2025-03-20,CUST0127,Returning,Kochi,Books,Marketing Essentials,1,22.99,10.0,20.69,9.0,11.69,UPI,Delivered,4.0
+ORD00203,2025-09-27,CUST0058,New,Kolkata,Books,Marketing Essentials,2,22.99,0.0,45.98,18.0,27.98,Net Banking,Cancelled,
+ORD00204,2025-04-14,CUST0227,New,Hyderabad,Sports,Fitness Tracker,1,89.99,0.0,89.99,55.0,34.99,Net Banking,Cancelled,
+ORD00205,2025-09-08,CUST0234,Returning,Kolkata,Electronics,Webcam,2,59.99,0.0,119.98,70.0,49.98,Cash on Delivery,Delivered,7.0
+ORD00206,2025-12-11,CUST0038,New,Chennai,Clothing,Cotton T-Shirt,1,19.99,15.0,16.99,8.0,8.99,UPI,Returned,4.0
+ORD00207,2025-10-05,CUST0093,Loyal,Jaipur,Electronics,Wireless Mouse,5,18.99,5.0,90.2,47.5,42.7,Debit Card,Delivered,7.0
+ORD00208,2025-07-15,CUST0179,New,Kolkata,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,Cash on Delivery,Returned,3.0
+ORD00209,2025-09-28,CUST0218,Returning,Hyderabad,Home & Kitchen,Coffee Maker,3,79.99,10.0,215.97,144.0,71.97,Credit Card,Delivered,8.0
+ORD00210,2025-08-24,CUST0017,Loyal,Jaipur,Clothing,Hoodie,1,39.99,15.0,33.99,19.0,14.99,Net Banking,Returned,2.0
+ORD00211,2025-01-09,CUST0126,Returning,Jaipur,Home & Kitchen,Coffee Maker,1,79.99,10.0,71.99,48.0,23.99,Cash on Delivery,Delivered,1.0
+ORD00212,2025-04-30,CUST0120,Loyal,Kochi,Sports,Resistance Bands,3,14.99,10.0,40.47,16.5,23.97,Debit Card,Delivered,5.0
+ORD00213,2025-10-23,CUST0212,New,Pune,Sports,Gym Bottle,1,11.99,15.0,10.19,4.0,6.19,Net Banking,Returned,4.0
+ORD00214,2025-10-30,CUST0164,Returning,Jaipur,Home & Kitchen,Desk Lamp,2,29.99,0.0,59.98,28.0,31.98,Credit Card,Delivered,7.0
+ORD00215,2025-06-03,CUST0074,Loyal,Pune,Books,Business Strategy Guide,3,29.99,5.0,85.47,39.0,46.47,Net Banking,Delivered,5.0
+ORD00216,2025-07-31,CUST0170,Returning,Ahmedabad,Books,Marketing Essentials,2,22.99,5.0,43.68,18.0,25.68,Debit Card,Delivered,4.0
+ORD00217,2025-02-17,CUST0021,Loyal,Hyderabad,Sports,Resistance Bands,1,14.99,5.0,14.24,5.5,8.74,Net Banking,Cancelled,
+ORD00218,2025-12-10,CUST0008,New,Hyderabad,Sports,Resistance Bands,2,14.99,15.0,25.48,11.0,14.48,UPI,Delivered,5.0
+ORD00219,2025-09-03,CUST0145,Returning,Kolkata,Home & Kitchen,Blender,2,64.99,5.0,123.48,78.0,45.48,Debit Card,Delivered,6.0
+ORD00220,2025-06-07,CUST0164,Loyal,Chennai,Clothing,Running Shoes,2,74.99,5.0,142.48,84.0,58.48,Debit Card,Delivered,8.0
+ORD00221,2025-07-31,CUST0214,New,Hyderabad,Electronics,Webcam,3,59.99,10.0,161.97,105.0,56.97,Debit Card,Delivered,5.0
+ORD00222,2025-04-28,CUST0132,Loyal,Ahmedabad,Books,Marketing Essentials,3,22.99,5.0,65.52,27.0,38.52,Cash on Delivery,Returned,6.0
+ORD00223,2025-08-24,CUST0031,Returning,Mumbai,Home & Kitchen,Storage Box,1,12.99,10.0,11.69,5.5,6.19,UPI,Delivered,3.0
+ORD00224,2025-01-04,CUST0005,New,Ahmedabad,Books,Business Strategy Guide,3,29.99,0.0,89.97,39.0,50.97,Debit Card,Returned,3.0
+ORD00225,2025-01-31,CUST0211,New,Kolkata,Sports,Fitness Tracker,4,89.99,10.0,323.96,220.0,103.96,Debit Card,Delivered,1.0
+ORD00226,2025-10-02,CUST0055,Loyal,Kolkata,Clothing,Cotton T-Shirt,2,19.99,10.0,35.98,16.0,19.98,Credit Card,Delivered,3.0
+ORD00227,2025-05-04,CUST0041,Returning,Jaipur,Home & Kitchen,Blender,2,64.99,15.0,110.48,78.0,32.48,Cash on Delivery,Delivered,7.0
+ORD00228,2025-10-17,CUST0048,Returning,Jaipur,Home & Kitchen,Coffee Maker,1,79.99,15.0,67.99,48.0,19.99,Net Banking,Delivered,1.0
+ORD00229,2025-09-01,CUST0049,Loyal,Pune,Electronics,Wireless Mouse,2,18.99,0.0,37.98,19.0,18.98,Credit Card,Delivered,6.0
+ORD00230,2025-04-19,CUST0017,New,Chennai,Sports,Skipping Rope,1,9.99,15.0,8.49,3.5,4.99,UPI,Returned,5.0
+ORD00231,2025-04-17,CUST0154,New,Hyderabad,Sports,Resistance Bands,3,14.99,10.0,40.47,16.5,23.97,Net Banking,Delivered,2.0
+ORD00232,2025-07-19,CUST0257,Returning,Chennai,Sports,Gym Bottle,1,11.99,10.0,10.79,4.0,6.79,UPI,Returned,2.0
+ORD00233,2025-02-20,CUST0204,Loyal,Chennai,Books,Business Strategy Guide,3,29.99,0.0,89.97,39.0,50.97,UPI,Cancelled,
+ORD00234,2025-11-21,CUST0096,Returning,Jaipur,Clothing,Backpack,2,44.99,5.0,85.48,46.0,39.48,UPI,Delivered,7.0
+ORD00235,2025-11-13,CUST0079,Returning,Chennai,Clothing,Hoodie,2,39.99,0.0,79.98,38.0,41.98,Debit Card,Delivered,7.0
+ORD00236,2025-02-24,CUST0068,New,Jaipur,Electronics,Wireless Mouse,4,18.99,5.0,72.16,38.0,34.16,Cash on Delivery,Delivered,2.0
+ORD00237,2025-10-13,CUST0167,Loyal,Pune,Sports,Fitness Tracker,1,89.99,0.0,89.99,55.0,34.99,Debit Card,Delivered,2.0
+ORD00238,2025-07-31,CUST0195,New,Delhi,Books,Data Analytics Basics,3,24.99,10.0,67.47,30.0,37.47,Debit Card,Delivered,3.0
+ORD00239,2025-05-18,CUST0248,Loyal,Chennai,Books,Business Strategy Guide,1,29.99,5.0,28.49,13.0,15.49,Debit Card,Delivered,5.0
+ORD00240,2025-05-07,CUST0004,Loyal,Chennai,Books,Marketing Essentials,2,22.99,5.0,43.68,18.0,25.68,Net Banking,Delivered,5.0
+ORD00241,2025-07-14,CUST0154,New,Hyderabad,Clothing,Backpack,1,44.99,15.0,38.24,23.0,15.24,Cash on Delivery,Returned,3.0
+ORD00242,2025-06-10,CUST0125,New,Delhi,Home & Kitchen,Desk Lamp,5,29.99,0.0,149.95,70.0,79.95,Cash on Delivery,Returned,8.0
+ORD00243,2025-07-06,CUST0237,Loyal,Hyderabad,Electronics,Webcam,1,59.99,20.0,47.99,35.0,12.99,Cash on Delivery,Delivered,1.0
+ORD00244,2025-05-30,CUST0130,Returning,Jaipur,Electronics,Laptop Stand,2,34.99,0.0,69.98,36.0,33.98,Cash on Delivery,Delivered,4.0
+ORD00245,2025-02-07,CUST0215,Returning,Chennai,Books,Marketing Essentials,2,22.99,5.0,43.68,18.0,25.68,Net Banking,Cancelled,
+ORD00246,2025-11-01,CUST0023,Returning,Jaipur,Electronics,Wireless Mouse,3,18.99,10.0,51.27,28.5,22.77,Debit Card,Delivered,3.0
+ORD00247,2025-08-09,CUST0229,Returning,Ahmedabad,Electronics,Wireless Mouse,1,18.99,0.0,18.99,9.5,9.49,Net Banking,Returned,4.0
+ORD00248,2025-12-20,CUST0213,Loyal,Mumbai,Sports,Resistance Bands,1,14.99,0.0,14.99,5.5,9.49,UPI,Delivered,5.0
+ORD00249,2025-03-14,CUST0248,New,Mumbai,Clothing,Running Shoes,1,74.99,10.0,67.49,42.0,25.49,Cash on Delivery,Cancelled,
+ORD00250,2025-12-23,CUST0012,Loyal,Mumbai,Books,Python for Beginners,1,27.99,0.0,27.99,11.0,16.99,Credit Card,Returned,2.0
+ORD00251,2025-05-05,CUST0119,Loyal,Bengaluru,Sports,Resistance Bands,2,14.99,0.0,29.98,11.0,18.98,Credit Card,Delivered,8.0
+ORD00252,2025-11-24,CUST0220,Returning,Hyderabad,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,Credit Card,Delivered,8.0
+ORD00253,2025-05-23,CUST0167,New,Mumbai,Electronics,Webcam,1,59.99,15.0,50.99,35.0,15.99,Debit Card,Delivered,6.0
+ORD00254,2025-12-10,CUST0059,New,Ahmedabad,Books,Marketing Essentials,5,22.99,0.0,114.95,45.0,69.95,Net Banking,Delivered,7.0
+ORD00255,2025-03-30,CUST0123,New,Bengaluru,Clothing,Jeans,2,49.99,10.0,89.98,52.0,37.98,Debit Card,Delivered,2.0
+ORD00256,2025-12-22,CUST0197,Returning,Ahmedabad,Home & Kitchen,Blender,1,64.99,10.0,58.49,39.0,19.49,Net Banking,Cancelled,
+ORD00257,2025-12-22,CUST0231,Returning,Chennai,Home & Kitchen,Blender,1,64.99,0.0,64.99,39.0,25.99,UPI,Delivered,6.0
+ORD00258,2025-09-06,CUST0254,Returning,Ahmedabad,Home & Kitchen,Coffee Maker,3,79.99,20.0,191.98,144.0,47.98,Cash on Delivery,Cancelled,
+ORD00259,2025-12-30,CUST0017,New,Kolkata,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,Debit Card,Delivered,5.0
+ORD00260,2025-03-28,CUST0058,Returning,Delhi,Books,Marketing Essentials,3,22.99,10.0,62.07,27.0,35.07,Net Banking,Cancelled,
+ORD00261,2025-07-07,CUST0053,Returning,Hyderabad,Sports,Yoga Mat,3,27.99,5.0,79.77,36.0,43.77,Debit Card,Delivered,7.0
+ORD00262,2025-01-17,CUST0122,New,Kochi,Books,Python for Beginners,1,27.99,15.0,23.79,11.0,12.79,Debit Card,Delivered,2.0
+ORD00263,2025-12-30,CUST0031,Returning,Kolkata,Sports,Skipping Rope,1,9.99,0.0,9.99,3.5,6.49,Debit Card,Delivered,4.0
+ORD00264,2025-11-02,CUST0049,New,Jaipur,Sports,Resistance Bands,1,14.99,10.0,13.49,5.5,7.99,UPI,Delivered,5.0
+ORD00265,2025-05-22,CUST0251,New,Delhi,Home & Kitchen,Coffee Maker,1,79.99,10.0,71.99,48.0,23.99,Cash on Delivery,Delivered,7.0
+ORD00266,2025-07-12,CUST0143,Returning,Chennai,Books,Data Analytics Basics,2,24.99,15.0,42.48,20.0,22.48,Cash on Delivery,Delivered,7.0
+ORD00267,2025-09-07,CUST0235,Returning,Chennai,Clothing,Jeans,1,49.99,10.0,44.99,26.0,18.99,UPI,Returned,2.0
+ORD00268,2025-10-01,CUST0166,Loyal,Chennai,Books,Business Strategy Guide,5,29.99,15.0,127.46,65.0,62.46,Net Banking,Delivered,5.0
+ORD00269,2025-10-23,CUST0024,New,Ahmedabad,Home & Kitchen,Blender,3,64.99,10.0,175.47,117.0,58.47,UPI,Returned,1.0
+ORD00270,2025-03-05,CUST0068,Loyal,Delhi,Home & Kitchen,Desk Lamp,2,29.99,20.0,47.98,28.0,19.98,Credit Card,Delivered,4.0
+ORD00271,2025-05-21,CUST0027,Returning,Delhi,Electronics,USB-C Charger,1,22.5,5.0,21.38,11.25,10.13,Credit Card,Returned,3.0
+ORD00272,2025-08-08,CUST0228,New,Chennai,Electronics,Wireless Mouse,1,18.99,5.0,18.04,9.5,8.54,UPI,Delivered,4.0
+ORD00273,2025-08-05,CUST0053,New,Delhi,Home & Kitchen,Desk Lamp,1,29.99,5.0,28.49,14.0,14.49,Credit Card,Returned,2.0
+ORD00274,2025-07-15,CUST0085,Returning,Hyderabad,Home & Kitchen,Coffee Maker,1,79.99,10.0,71.99,48.0,23.99,Credit Card,Cancelled,
+ORD00275,2025-07-30,CUST0064,Returning,Jaipur,Sports,Skipping Rope,3,9.99,0.0,29.97,10.5,19.47,Debit Card,Delivered,3.0
+ORD00276,2025-08-08,CUST0014,Loyal,Delhi,Clothing,Hoodie,1,39.99,10.0,35.99,19.0,16.99,Credit Card,Delivered,5.0
+ORD00277,2025-09-23,CUST0123,Returning,Mumbai,Sports,Fitness Tracker,1,89.99,5.0,85.49,55.0,30.49,Credit Card,Returned,1.0
+ORD00278,2025-09-13,CUST0068,Returning,Kochi,Sports,Yoga Mat,2,27.99,20.0,44.78,24.0,20.78,Cash on Delivery,Delivered,6.0
+ORD00279,2025-07-07,CUST0035,New,Hyderabad,Sports,Resistance Bands,3,14.99,20.0,35.98,16.5,19.48,UPI,Delivered,1.0
+ORD00280,2025-01-31,CUST0206,New,Kolkata,Books,Marketing Essentials,1,22.99,10.0,20.69,9.0,11.69,Net Banking,Delivered,7.0
+ORD00281,2025-11-12,CUST0168,Returning,Mumbai,Home & Kitchen,Storage Box,1,12.99,0.0,12.99,5.5,7.49,Debit Card,Delivered,3.0
+ORD00282,2025-12-24,CUST0233,Returning,Pune,Books,Business Strategy Guide,1,29.99,0.0,29.99,13.0,16.99,Debit Card,Delivered,2.0
+ORD00283,2025-12-08,CUST0255,Loyal,Kolkata,Home & Kitchen,Water Bottle,1,16.99,0.0,16.99,7.0,9.99,Net Banking,Delivered,3.0
+ORD00284,2025-05-13,CUST0016,New,Jaipur,Home & Kitchen,Storage Box,1,12.99,10.0,11.69,5.5,6.19,Debit Card,Delivered,2.0
+ORD00285,2025-09-26,CUST0234,Returning,Pune,Electronics,USB-C Charger,2,22.5,10.0,40.5,22.5,18.0,Cash on Delivery,Delivered,8.0
+ORD00286,2025-10-18,CUST0060,New,Kolkata,Home & Kitchen,Storage Box,1,12.99,10.0,11.69,5.5,6.19,UPI,Cancelled,
+ORD00287,2025-01-23,CUST0019,Returning,Jaipur,Electronics,Bluetooth Headphones,1,49.99,5.0,47.49,28.0,19.49,Credit Card,Delivered,3.0
+ORD00288,2025-06-14,CUST0062,Returning,Pune,Home & Kitchen,Desk Lamp,4,29.99,0.0,119.96,56.0,63.96,Credit Card,Delivered,6.0
+ORD00289,2025-04-25,CUST0160,New,Kolkata,Sports,Yoga Mat,4,27.99,0.0,111.96,48.0,63.96,Cash on Delivery,Delivered,5.0
+ORD00290,2025-01-05,CUST0238,Returning,Ahmedabad,Clothing,Hoodie,1,39.99,10.0,35.99,19.0,16.99,Credit Card,Returned,4.0
+ORD00291,2025-10-07,CUST0005,Loyal,Pune,Home & Kitchen,Coffee Maker,1,79.99,5.0,75.99,48.0,27.99,Cash on Delivery,Delivered,6.0
+ORD00292,2025-06-07,CUST0073,Returning,Mumbai,Electronics,Bluetooth Headphones,2,49.99,0.0,99.98,56.0,43.98,UPI,Delivered,1.0
+ORD00293,2025-04-29,CUST0049,Returning,Jaipur,Sports,Skipping Rope,2,9.99,5.0,18.98,7.0,11.98,UPI,Returned,2.0
+ORD00294,2025-10-31,CUST0134,Loyal,Jaipur,Sports,Yoga Mat,2,27.99,20.0,44.78,24.0,20.78,Debit Card,Delivered,5.0
+ORD00295,2025-06-12,CUST0080,New,Ahmedabad,Books,Python for Beginners,1,27.99,15.0,23.79,11.0,12.79,Cash on Delivery,Delivered,2.0
+ORD00296,2025-06-10,CUST0158,Returning,Mumbai,Books,Data Analytics Basics,2,24.99,20.0,39.98,20.0,19.98,UPI,Delivered,8.0
+ORD00297,2025-03-22,CUST0047,Returning,Chennai,Clothing,Jeans,1,49.99,15.0,42.49,26.0,16.49,Cash on Delivery,Delivered,3.0
+ORD00298,2025-09-20,CUST0232,Returning,Kolkata,Electronics,USB-C Charger,1,22.5,20.0,18.0,11.25,6.75,Credit Card,Delivered,7.0
+ORD00299,2025-02-18,CUST0114,New,Jaipur,Books,Data Analytics Basics,3,24.99,0.0,74.97,30.0,44.97,Debit Card,Delivered,1.0
+ORD00300,2025-12-18,CUST0034,New,Ahmedabad,Electronics,Webcam,2,59.99,15.0,101.98,70.0,31.98,Credit Card,Delivered,1.0
+ORD00301,2025-02-17,CUST0203,Returning,Jaipur,Clothing,Cotton T-Shirt,1,19.99,5.0,18.99,8.0,10.99,Cash on Delivery,Delivered,7.0
+ORD00302,2025-03-30,CUST0018,Returning,Kochi,Clothing,Hoodie,4,39.99,0.0,159.96,76.0,83.96,Credit Card,Delivered,3.0
+ORD00303,2025-11-28,CUST0144,Returning,Jaipur,Clothing,Backpack,1,44.99,10.0,40.49,23.0,17.49,Credit Card,Delivered,2.0
+ORD00304,2025-11-26,CUST0184,Returning,Ahmedabad,Sports,Resistance Bands,2,14.99,15.0,25.48,11.0,14.48,Debit Card,Delivered,7.0
+ORD00305,2025-10-17,CUST0016,Loyal,Delhi,Sports,Gym Bottle,1,11.99,0.0,11.99,4.0,7.99,UPI,Delivered,4.0
+ORD00306,2025-08-30,CUST0127,Returning,Delhi,Sports,Gym Bottle,3,11.99,20.0,28.78,12.0,16.78,Net Banking,Delivered,2.0
+ORD00307,2025-01-29,CUST0091,New,Chennai,Home & Kitchen,Blender,3,64.99,10.0,175.47,117.0,58.47,Debit Card,Delivered,3.0
+ORD00308,2025-10-30,CUST0097,Loyal,Ahmedabad,Electronics,USB-C Charger,4,22.5,10.0,81.0,45.0,36.0,Net Banking,Cancelled,
+ORD00309,2025-06-08,CUST0113,New,Ahmedabad,Home & Kitchen,Desk Lamp,1,29.99,0.0,29.99,14.0,15.99,UPI,Cancelled,
+ORD00310,2025-06-19,CUST0031,New,Kochi,Sports,Resistance Bands,3,14.99,0.0,44.97,16.5,28.47,Credit Card,Delivered,6.0
+ORD00311,2025-02-26,CUST0052,New,Chennai,Sports,Gym Bottle,5,11.99,5.0,56.95,20.0,36.95,Credit Card,Returned,7.0
+ORD00312,2025-03-22,CUST0183,New,Kochi,Books,Productivity Journal,2,14.99,0.0,29.98,10.0,19.98,Credit Card,Cancelled,
+ORD00313,2025-07-13,CUST0017,New,Chennai,Clothing,Running Shoes,1,74.99,10.0,67.49,42.0,25.49,Net Banking,Returned,7.0
+ORD00314,2025-04-24,CUST0122,New,Chennai,Sports,Yoga Mat,4,27.99,0.0,111.96,48.0,63.96,Credit Card,Returned,2.0
+ORD00315,2025-11-22,CUST0180,New,Mumbai,Electronics,USB-C Charger,2,22.5,0.0,45.0,22.5,22.5,UPI,Delivered,2.0
+ORD00316,2025-01-25,CUST0194,Returning,Jaipur,Books,Productivity Journal,3,14.99,20.0,35.98,15.0,20.98,UPI,Delivered,8.0
+ORD00317,2025-09-03,CUST0011,New,Mumbai,Sports,Resistance Bands,1,14.99,0.0,14.99,5.5,9.49,UPI,Delivered,5.0
+ORD00318,2025-06-25,CUST0248,Returning,Jaipur,Home & Kitchen,Desk Lamp,1,29.99,0.0,29.99,14.0,15.99,Credit Card,Delivered,6.0
+ORD00319,2025-11-07,CUST0136,Returning,Delhi,Books,Business Strategy Guide,1,29.99,0.0,29.99,13.0,16.99,Credit Card,Delivered,7.0
+ORD00320,2025-02-19,CUST0185,New,Mumbai,Electronics,Laptop Stand,2,34.99,15.0,59.48,36.0,23.48,Debit Card,Delivered,1.0
+ORD00321,2025-12-05,CUST0042,Returning,Mumbai,Sports,Skipping Rope,1,9.99,0.0,9.99,3.5,6.49,Debit Card,Delivered,5.0
+ORD00322,2025-07-23,CUST0095,Returning,Jaipur,Books,Productivity Journal,4,14.99,0.0,59.96,20.0,39.96,Debit Card,Returned,7.0
+ORD00323,2025-04-06,CUST0032,New,Mumbai,Books,Data Analytics Basics,1,24.99,5.0,23.74,10.0,13.74,UPI,Delivered,5.0
+ORD00324,2025-12-09,CUST0199,Loyal,Jaipur,Clothing,Jeans,1,49.99,10.0,44.99,26.0,18.99,Net Banking,Delivered,1.0
+ORD00325,2025-12-18,CUST0018,Returning,Kolkata,Books,Marketing Essentials,4,22.99,5.0,87.36,36.0,51.36,Net Banking,Delivered,7.0
+ORD00326,2025-12-13,CUST0109,Loyal,Bengaluru,Sports,Resistance Bands,1,14.99,10.0,13.49,5.5,7.99,UPI,Delivered,3.0
+ORD00327,2025-08-05,CUST0164,Loyal,Mumbai,Electronics,Laptop Stand,1,34.99,15.0,29.74,18.0,11.74,UPI,Delivered,5.0
+ORD00328,2025-07-18,CUST0235,Loyal,Pune,Sports,Skipping Rope,2,9.99,15.0,16.98,7.0,9.98,Net Banking,Cancelled,
+ORD00329,2025-10-28,CUST0052,Loyal,Kochi,Sports,Skipping Rope,1,9.99,0.0,9.99,3.5,6.49,UPI,Cancelled,
+ORD00330,2025-05-27,CUST0243,New,Delhi,Sports,Gym Bottle,3,11.99,0.0,35.97,12.0,23.97,Cash on Delivery,Returned,8.0
+ORD00331,2025-03-15,CUST0122,New,Ahmedabad,Sports,Fitness Tracker,2,89.99,5.0,170.98,110.0,60.98,Debit Card,Delivered,6.0
+ORD00332,2025-07-10,CUST0051,Loyal,Hyderabad,Electronics,USB-C Charger,3,22.5,0.0,67.5,33.75,33.75,Credit Card,Delivered,8.0
+ORD00333,2025-06-03,CUST0097,Returning,Jaipur,Books,Python for Beginners,1,27.99,5.0,26.59,11.0,15.59,Cash on Delivery,Returned,2.0
+ORD00334,2025-09-22,CUST0070,Loyal,Kolkata,Clothing,Cotton T-Shirt,2,19.99,0.0,39.98,16.0,23.98,Net Banking,Delivered,7.0
+ORD00335,2025-01-15,CUST0017,Returning,Chennai,Home & Kitchen,Coffee Maker,3,79.99,0.0,239.97,144.0,95.97,Credit Card,Delivered,4.0
+ORD00336,2025-05-21,CUST0124,Returning,Kochi,Clothing,Backpack,2,44.99,10.0,80.98,46.0,34.98,Cash on Delivery,Delivered,1.0
+ORD00337,2025-04-01,CUST0146,New,Pune,Books,Marketing Essentials,2,22.99,0.0,45.98,18.0,27.98,Credit Card,Delivered,2.0
+ORD00338,2025-10-20,CUST0011,Loyal,Pune,Home & Kitchen,Coffee Maker,2,79.99,10.0,143.98,96.0,47.98,Cash on Delivery,Delivered,7.0
+ORD00339,2025-03-09,CUST0157,Returning,Delhi,Home & Kitchen,Blender,3,64.99,0.0,194.97,117.0,77.97,Cash on Delivery,Cancelled,
+ORD00340,2025-07-12,CUST0053,New,Chennai,Clothing,Backpack,1,44.99,5.0,42.74,23.0,19.74,Net Banking,Returned,7.0
+ORD00341,2025-11-28,CUST0173,Loyal,Chennai,Sports,Fitness Tracker,1,89.99,10.0,80.99,55.0,25.99,Debit Card,Delivered,2.0
+ORD00342,2025-05-14,CUST0164,Returning,Pune,Clothing,Hoodie,1,39.99,10.0,35.99,19.0,16.99,Cash on Delivery,Delivered,7.0
+ORD00343,2025-06-01,CUST0098,New,Hyderabad,Clothing,Backpack,1,44.99,10.0,40.49,23.0,17.49,Net Banking,Cancelled,
+ORD00344,2025-11-23,CUST0151,New,Bengaluru,Books,Python for Beginners,2,27.99,15.0,47.58,22.0,25.58,Debit Card,Returned,3.0
+ORD00345,2025-10-14,CUST0216,Loyal,Chennai,Home & Kitchen,Storage Box,2,12.99,0.0,25.98,11.0,14.98,Debit Card,Delivered,5.0
+ORD00346,2025-05-14,CUST0242,Loyal,Kolkata,Sports,Gym Bottle,2,11.99,0.0,23.98,8.0,15.98,UPI,Delivered,2.0
+ORD00347,2025-12-15,CUST0103,New,Kochi,Books,Marketing Essentials,1,22.99,0.0,22.99,9.0,13.99,Cash on Delivery,Delivered,3.0
+ORD00348,2025-03-15,CUST0161,Returning,Pune,Clothing,Hoodie,3,39.99,5.0,113.97,57.0,56.97,Cash on Delivery,Returned,3.0
+ORD00349,2025-05-21,CUST0223,Returning,Jaipur,Home & Kitchen,Coffee Maker,2,79.99,0.0,159.98,96.0,63.98,Cash on Delivery,Delivered,3.0
+ORD00350,2025-09-02,CUST0165,Loyal,Kolkata,Books,Data Analytics Basics,1,24.99,0.0,24.99,10.0,14.99,Credit Card,Delivered,1.0
+ORD00351,2025-01-10,CUST0053,Returning,Kochi,Electronics,Bluetooth Headphones,1,49.99,15.0,42.49,28.0,14.49,Debit Card,Delivered,3.0
+ORD00352,2025-03-27,CUST0223,Loyal,Bengaluru,Electronics,Wireless Mouse,1,18.99,0.0,18.99,9.5,9.49,Debit Card,Returned,6.0
+ORD00353,2025-09-08,CUST0117,New,Bengaluru,Clothing,Hoodie,1,39.99,15.0,33.99,19.0,14.99,Credit Card,Delivered,1.0
+ORD00354,2025-01-12,CUST0193,Loyal,Delhi,Sports,Fitness Tracker,1,89.99,5.0,85.49,55.0,30.49,Net Banking,Returned,1.0
+ORD00355,2025-11-16,CUST0025,Returning,Jaipur,Electronics,Webcam,5,59.99,10.0,269.95,175.0,94.95,Cash on Delivery,Returned,1.0
+ORD00356,2025-07-14,CUST0155,Returning,Mumbai,Electronics,Webcam,1,59.99,10.0,53.99,35.0,18.99,Net Banking,Delivered,1.0
+ORD00357,2025-05-19,CUST0145,New,Mumbai,Sports,Fitness Tracker,2,89.99,5.0,170.98,110.0,60.98,Cash on Delivery,Delivered,2.0
+ORD00358,2025-04-12,CUST0210,New,Pune,Sports,Resistance Bands,3,14.99,15.0,38.22,16.5,21.72,Net Banking,Delivered,6.0
+ORD00359,2025-09-12,CUST0057,Loyal,Ahmedabad,Home & Kitchen,Desk Lamp,1,29.99,0.0,29.99,14.0,15.99,Credit Card,Returned,2.0
+ORD00360,2025-02-16,CUST0234,Loyal,Delhi,Sports,Yoga Mat,3,27.99,0.0,83.97,36.0,47.97,Debit Card,Delivered,4.0
+ORD00361,2025-08-26,CUST0161,Returning,Mumbai,Electronics,Wireless Mouse,3,18.99,15.0,48.42,28.5,19.92,UPI,Delivered,6.0
+ORD00362,2025-01-24,CUST0138,Loyal,Mumbai,Electronics,Bluetooth Headphones,2,49.99,0.0,99.98,56.0,43.98,Debit Card,Delivered,8.0
+ORD00363,2025-06-25,CUST0245,Loyal,Bengaluru,Home & Kitchen,Water Bottle,1,16.99,20.0,13.59,7.0,6.59,UPI,Delivered,7.0
+ORD00364,2025-03-09,CUST0093,Returning,Chennai,Electronics,Bluetooth Headphones,1,49.99,15.0,42.49,28.0,14.49,Net Banking,Delivered,8.0
+ORD00365,2025-01-15,CUST0024,New,Chennai,Home & Kitchen,Desk Lamp,4,29.99,0.0,119.96,56.0,63.96,UPI,Delivered,8.0
+ORD00366,2025-12-27,CUST0049,Returning,Hyderabad,Sports,Fitness Tracker,3,89.99,0.0,269.97,165.0,104.97,Cash on Delivery,Returned,6.0
+ORD00367,2025-06-27,CUST0028,New,Bengaluru,Books,Business Strategy Guide,3,29.99,10.0,80.97,39.0,41.97,Net Banking,Cancelled,
+ORD00368,2025-08-29,CUST0143,New,Hyderabad,Books,Business Strategy Guide,1,29.99,5.0,28.49,13.0,15.49,Net Banking,Delivered,6.0
+ORD00369,2025-11-26,CUST0046,Loyal,Ahmedabad,Books,Productivity Journal,3,14.99,0.0,44.97,15.0,29.97,Debit Card,Delivered,8.0
+ORD00370,2025-03-02,CUST0001,Loyal,Kochi,Books,Data Analytics Basics,1,24.99,5.0,23.74,10.0,13.74,Net Banking,Cancelled,
+ORD00371,2025-11-23,CUST0187,Loyal,Hyderabad,Clothing,Jeans,2,49.99,10.0,89.98,52.0,37.98,Cash on Delivery,Delivered,6.0
+ORD00372,2025-06-19,CUST0059,New,Hyderabad,Sports,Fitness Tracker,2,89.99,10.0,161.98,110.0,51.98,UPI,Delivered,8.0
+ORD00373,2025-06-24,CUST0085,Returning,Jaipur,Clothing,Running Shoes,2,74.99,5.0,142.48,84.0,58.48,UPI,Delivered,1.0
+ORD00374,2025-05-11,CUST0235,Loyal,Hyderabad,Sports,Resistance Bands,1,14.99,15.0,12.74,5.5,7.24,Debit Card,Delivered,4.0
+ORD00375,2025-02-25,CUST0064,Loyal,Ahmedabad,Books,Data Analytics Basics,4,24.99,15.0,84.97,40.0,44.97,Cash on Delivery,Cancelled,
+ORD00376,2025-12-04,CUST0025,Returning,Jaipur,Sports,Fitness Tracker,1,89.99,5.0,85.49,55.0,30.49,Net Banking,Cancelled,
+ORD00377,2025-09-05,CUST0199,Returning,Kochi,Sports,Resistance Bands,2,14.99,0.0,29.98,11.0,18.98,Debit Card,Delivered,2.0
+ORD00378,2025-09-16,CUST0204,Loyal,Delhi,Books,Productivity Journal,5,14.99,15.0,63.71,25.0,38.71,Cash on Delivery,Delivered,5.0
+ORD00379,2025-03-10,CUST0154,Loyal,Kolkata,Home & Kitchen,Desk Lamp,2,29.99,15.0,50.98,28.0,22.98,Debit Card,Cancelled,
+ORD00380,2025-12-31,CUST0068,Loyal,Bengaluru,Sports,Resistance Bands,1,14.99,10.0,13.49,5.5,7.99,Net Banking,Delivered,6.0
+ORD00381,2025-10-05,CUST0214,Returning,Kolkata,Clothing,Cotton T-Shirt,3,19.99,10.0,53.97,24.0,29.97,Debit Card,Cancelled,
+ORD00382,2025-08-05,CUST0103,New,Bengaluru,Electronics,Webcam,1,59.99,5.0,56.99,35.0,21.99,Debit Card,Delivered,1.0
+ORD00383,2025-12-16,CUST0017,Returning,Ahmedabad,Clothing,Hoodie,3,39.99,10.0,107.97,57.0,50.97,UPI,Delivered,4.0
+ORD00384,2025-11-12,CUST0025,Loyal,Jaipur,Sports,Resistance Bands,3,14.99,10.0,40.47,16.5,23.97,Cash on Delivery,Delivered,5.0
+ORD00385,2025-12-17,CUST0116,Loyal,Chennai,Clothing,Jeans,1,49.99,10.0,44.99,26.0,18.99,Net Banking,Delivered,8.0
+ORD00386,2025-10-07,CUST0091,Loyal,Mumbai,Sports,Resistance Bands,3,14.99,20.0,35.98,16.5,19.48,Credit Card,Delivered,8.0
+ORD00387,2025-03-30,CUST0136,New,Kochi,Sports,Yoga Mat,1,27.99,5.0,26.59,12.0,14.59,Debit Card,Cancelled,
+ORD00388,2025-01-03,CUST0027,Loyal,Kochi,Clothing,Backpack,2,44.99,0.0,89.98,46.0,43.98,Debit Card,Delivered,6.0
+ORD00389,2025-09-09,CUST0095,Returning,Kolkata,Sports,Fitness Tracker,1,89.99,10.0,80.99,55.0,25.99,Credit Card,Delivered,4.0
+ORD00390,2025-08-01,CUST0170,Returning,Hyderabad,Sports,Fitness Tracker,1,89.99,0.0,89.99,55.0,34.99,Net Banking,Delivered,6.0
+ORD00391,2025-09-29,CUST0178,Returning,Kochi,Books,Marketing Essentials,3,22.99,20.0,55.18,27.0,28.18,Net Banking,Delivered,2.0
+ORD00392,2025-05-05,CUST0132,Returning,Delhi,Electronics,USB-C Charger,1,22.5,10.0,20.25,11.25,9.0,UPI,Delivered,7.0
+ORD00393,2025-09-22,CUST0099,New,Mumbai,Clothing,Jeans,3,49.99,5.0,142.47,78.0,64.47,UPI,Delivered,5.0
+ORD00394,2025-03-27,CUST0218,Loyal,Hyderabad,Sports,Fitness Tracker,1,89.99,0.0,89.99,55.0,34.99,Net Banking,Returned,4.0
+ORD00395,2025-12-26,CUST0020,New,Pune,Books,Data Analytics Basics,3,24.99,0.0,74.97,30.0,44.97,Credit Card,Delivered,6.0
+ORD00396,2025-05-09,CUST0199,Returning,Jaipur,Sports,Yoga Mat,2,27.99,0.0,55.98,24.0,31.98,Cash on Delivery,Delivered,7.0
+ORD00397,2025-06-11,CUST0024,Returning,Mumbai,Electronics,Laptop Stand,2,34.99,5.0,66.48,36.0,30.48,Debit Card,Returned,2.0
+ORD00398,2025-09-15,CUST0225,Returning,Pune,Electronics,USB-C Charger,3,22.5,0.0,67.5,33.75,33.75,Cash on Delivery,Delivered,5.0
+ORD00399,2025-03-22,CUST0152,Loyal,Bengaluru,Sports,Resistance Bands,1,14.99,5.0,14.24,5.5,8.74,Debit Card,Cancelled,
+ORD00400,2025-12-13,CUST0003,Returning,Jaipur,Clothing,Cotton T-Shirt,2,19.99,10.0,35.98,16.0,19.98,Net Banking,Delivered,1.0
+ORD00401,2025-10-08,CUST0109,Returning,Kolkata,Electronics,USB-C Charger,1,22.5,10.0,20.25,11.25,9.0,Credit Card,Returned,6.0
+ORD00402,2025-03-24,CUST0028,Loyal,Kolkata,Home & Kitchen,Coffee Maker,2,79.99,0.0,159.98,96.0,63.98,Cash on Delivery,Delivered,3.0
+ORD00403,2025-11-27,CUST0250,Loyal,Chennai,Sports,Yoga Mat,1,27.99,0.0,27.99,12.0,15.99,Credit Card,Delivered,4.0
+ORD00404,2025-12-10,CUST0249,Returning,Kochi,Home & Kitchen,Water Bottle,1,16.99,0.0,16.99,7.0,9.99,Debit Card,Delivered,6.0
+ORD00405,2025-12-22,CUST0087,New,Hyderabad,Sports,Resistance Bands,2,14.99,5.0,28.48,11.0,17.48,Credit Card,Delivered,7.0
+ORD00406,2025-12-31,CUST0246,Returning,Chennai,Books,Python for Beginners,3,27.99,0.0,83.97,33.0,50.97,Debit Card,Returned,6.0
+ORD00407,2025-09-07,CUST0101,New,Mumbai,Sports,Yoga Mat,1,27.99,10.0,25.19,12.0,13.19,UPI,Delivered,3.0
+ORD00408,2025-01-10,CUST0109,Loyal,Kolkata,Sports,Yoga Mat,3,27.99,10.0,75.57,36.0,39.57,Debit Card,Cancelled,
+ORD00409,2025-10-06,CUST0149,New,Kolkata,Sports,Skipping Rope,2,9.99,0.0,19.98,7.0,12.98,Net Banking,Delivered,4.0
+ORD00410,2025-02-16,CUST0085,Loyal,Bengaluru,Books,Python for Beginners,2,27.99,10.0,50.38,22.0,28.38,Cash on Delivery,Cancelled,
+ORD00411,2025-03-23,CUST0184,New,Ahmedabad,Home & Kitchen,Blender,4,64.99,10.0,233.96,156.0,77.96,Credit Card,Delivered,8.0
+ORD00412,2025-02-02,CUST0185,Returning,Ahmedabad,Clothing,Running Shoes,1,74.99,10.0,67.49,42.0,25.49,UPI,Cancelled,
+ORD00413,2025-01-21,CUST0090,Returning,Jaipur,Clothing,Cotton T-Shirt,2,19.99,5.0,37.98,16.0,21.98,Debit Card,Delivered,5.0
+ORD00414,2025-10-28,CUST0181,Loyal,Chennai,Electronics,Webcam,1,59.99,20.0,47.99,35.0,12.99,Cash on Delivery,Delivered,7.0
+ORD00415,2025-09-04,CUST0040,Returning,Delhi,Sports,Yoga Mat,2,27.99,0.0,55.98,24.0,31.98,Credit Card,Delivered,4.0
+ORD00416,2025-03-18,CUST0213,Loyal,Mumbai,Home & Kitchen,Coffee Maker,1,79.99,10.0,71.99,48.0,23.99,Cash on Delivery,Delivered,4.0
+ORD00417,2025-12-12,CUST0125,New,Kochi,Books,Productivity Journal,1,14.99,0.0,14.99,5.0,9.99,Net Banking,Delivered,1.0
+ORD00418,2025-03-24,CUST0133,Loyal,Kolkata,Home & Kitchen,Blender,1,64.99,10.0,58.49,39.0,19.49,Cash on Delivery,Delivered,3.0
+ORD00419,2025-11-03,CUST0111,Returning,Ahmedabad,Sports,Yoga Mat,3,27.99,10.0,75.57,36.0,39.57,Cash on Delivery,Delivered,2.0
+ORD00420,2025-03-29,CUST0086,Returning,Chennai,Home & Kitchen,Desk Lamp,2,29.99,10.0,53.98,28.0,25.98,Cash on Delivery,Delivered,5.0
+ORD00421,2025-11-02,CUST0104,Returning,Kolkata,Sports,Yoga Mat,1,27.99,5.0,26.59,12.0,14.59,Cash on Delivery,Delivered,1.0
+ORD00422,2025-03-18,CUST0020,Loyal,Kolkata,Sports,Yoga Mat,1,27.99,15.0,23.79,12.0,11.79,Net Banking,Cancelled,
+ORD00423,2025-03-02,CUST0001,Loyal,Jaipur,Electronics,Laptop Stand,2,34.99,15.0,59.48,36.0,23.48,Net Banking,Cancelled,
+ORD00424,2025-08-04,CUST0180,Returning,Kochi,Clothing,Cotton T-Shirt,2,19.99,5.0,37.98,16.0,21.98,UPI,Delivered,7.0
+ORD00425,2025-08-06,CUST0210,New,Pune,Home & Kitchen,Storage Box,2,12.99,0.0,25.98,11.0,14.98,UPI,Delivered,5.0
+ORD00426,2025-10-23,CUST0210,Returning,Bengaluru,Sports,Yoga Mat,2,27.99,5.0,53.18,24.0,29.18,Cash on Delivery,Delivered,6.0
+ORD00427,2025-11-30,CUST0188,Returning,Jaipur,Sports,Gym Bottle,1,11.99,5.0,11.39,4.0,7.39,Credit Card,Cancelled,
+ORD00428,2025-07-31,CUST0248,New,Delhi,Sports,Fitness Tracker,2,89.99,5.0,170.98,110.0,60.98,Net Banking,Cancelled,
+ORD00429,2025-06-26,CUST0229,Loyal,Bengaluru,Books,Business Strategy Guide,3,29.99,10.0,80.97,39.0,41.97,UPI,Returned,4.0
+ORD00430,2025-04-20,CUST0027,New,Pune,Sports,Skipping Rope,3,9.99,15.0,25.47,10.5,14.97,UPI,Cancelled,
+ORD00431,2025-03-16,CUST0041,Returning,Jaipur,Books,Marketing Essentials,2,22.99,0.0,45.98,18.0,27.98,Cash on Delivery,Delivered,6.0
+ORD00432,2025-11-11,CUST0225,New,Kolkata,Sports,Gym Bottle,2,11.99,10.0,21.58,8.0,13.58,Debit Card,Delivered,8.0
+ORD00433,2025-04-10,CUST0087,Returning,Chennai,Electronics,Webcam,2,59.99,10.0,107.98,70.0,37.98,Credit Card,Cancelled,
+ORD00434,2025-12-02,CUST0203,Returning,Hyderabad,Electronics,Bluetooth Headphones,1,49.99,0.0,49.99,28.0,21.99,Net Banking,Delivered,6.0
+ORD00435,2025-01-08,CUST0179,New,Delhi,Electronics,Wireless Mouse,2,18.99,10.0,34.18,19.0,15.18,Credit Card,Cancelled,
+ORD00436,2025-11-07,CUST0209,Returning,Kolkata,Home & Kitchen,Desk Lamp,4,29.99,10.0,107.96,56.0,51.96,UPI,Delivered,3.0
+ORD00437,2025-09-15,CUST0227,Loyal,Kochi,Clothing,Running Shoes,4,74.99,15.0,254.97,168.0,86.97,Cash on Delivery,Delivered,5.0
+ORD00438,2025-05-05,CUST0060,New,Jaipur,Clothing,Backpack,2,44.99,15.0,76.48,46.0,30.48,Credit Card,Delivered,8.0
+ORD00439,2025-12-13,CUST0005,Returning,Delhi,Home & Kitchen,Storage Box,1,12.99,5.0,12.34,5.5,6.84,Credit Card,Cancelled,
+ORD00440,2025-05-28,CUST0244,New,Hyderabad,Electronics,Laptop Stand,2,34.99,15.0,59.48,36.0,23.48,Net Banking,Delivered,3.0
+ORD00441,2025-05-18,CUST0136,New,Hyderabad,Home & Kitchen,Coffee Maker,2,79.99,0.0,159.98,96.0,63.98,Credit Card,Returned,4.0
+ORD00442,2025-11-13,CUST0004,Loyal,Kolkata,Clothing,Hoodie,3,39.99,0.0,119.97,57.0,62.97,UPI,Delivered,8.0
+ORD00443,2025-09-04,CUST0141,Returning,Kolkata,Clothing,Jeans,1,49.99,15.0,42.49,26.0,16.49,Debit Card,Cancelled,
+ORD00444,2025-07-23,CUST0017,Returning,Jaipur,Home & Kitchen,Blender,1,64.99,5.0,61.74,39.0,22.74,Credit Card,Delivered,8.0
+ORD00445,2025-08-23,CUST0195,Returning,Chennai,Electronics,Webcam,2,59.99,10.0,107.98,70.0,37.98,Debit Card,Delivered,4.0
+ORD00446,2025-11-10,CUST0188,New,Jaipur,Clothing,Hoodie,2,39.99,0.0,79.98,38.0,41.98,Credit Card,Delivered,6.0
+ORD00447,2025-08-03,CUST0118,Loyal,Delhi,Clothing,Running Shoes,3,74.99,0.0,224.97,126.0,98.97,Credit Card,Delivered,3.0
+ORD00448,2025-10-12,CUST0243,Loyal,Bengaluru,Books,Productivity Journal,1,14.99,15.0,12.74,5.0,7.74,Cash on Delivery,Returned,3.0
+ORD00449,2025-09-13,CUST0129,Returning,Kochi,Home & Kitchen,Blender,2,64.99,0.0,129.98,78.0,51.98,UPI,Delivered,5.0
+ORD00450,2025-07-23,CUST0231,Returning,Delhi,Electronics,Bluetooth Headphones,1,49.99,15.0,42.49,28.0,14.49,Debit Card,Delivered,2.0
+ORD00451,2025-07-04,CUST0063,Returning,Kochi,Sports,Fitness Tracker,4,89.99,0.0,359.96,220.0,139.96,Credit Card,Delivered,7.0
+ORD00452,2025-10-23,CUST0250,Loyal,Ahmedabad,Sports,Fitness Tracker,1,89.99,10.0,80.99,55.0,25.99,UPI,Delivered,6.0
+ORD00453,2025-07-15,CUST0216,Returning,Kochi,Sports,Gym Bottle,2,11.99,20.0,19.18,8.0,11.18,Cash on Delivery,Delivered,6.0
+ORD00454,2025-02-06,CUST0137,Returning,Jaipur,Electronics,Bluetooth Headphones,1,49.99,0.0,49.99,28.0,21.99,Debit Card,Returned,5.0
+ORD00455,2025-08-16,CUST0012,New,Hyderabad,Clothing,Jeans,2,49.99,5.0,94.98,52.0,42.98,Debit Card,Delivered,3.0
+ORD00456,2025-12-25,CUST0028,New,Jaipur,Electronics,Bluetooth Headphones,1,49.99,0.0,49.99,28.0,21.99,Net Banking,Delivered,8.0
+ORD00457,2025-02-12,CUST0118,New,Delhi,Electronics,USB-C Charger,2,22.5,0.0,45.0,22.5,22.5,Cash on Delivery,Delivered,5.0
+ORD00458,2025-11-17,CUST0167,Loyal,Ahmedabad,Home & Kitchen,Coffee Maker,2,79.99,0.0,159.98,96.0,63.98,Net Banking,Delivered,6.0
+ORD00459,2025-05-20,CUST0091,Returning,Ahmedabad,Sports,Skipping Rope,1,9.99,15.0,8.49,3.5,4.99,Net Banking,Cancelled,
+ORD00460,2025-08-11,CUST0117,Loyal,Ahmedabad,Sports,Fitness Tracker,1,89.99,0.0,89.99,55.0,34.99,Debit Card,Cancelled,
+ORD00461,2025-07-07,CUST0070,New,Ahmedabad,Books,Python for Beginners,1,27.99,0.0,27.99,11.0,16.99,Net Banking,Cancelled,
+ORD00462,2025-01-05,CUST0004,Returning,Hyderabad,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,Cash on Delivery,Delivered,4.0
+ORD00463,2025-10-15,CUST0194,New,Mumbai,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,Cash on Delivery,Returned,7.0
+ORD00464,2025-11-17,CUST0146,Returning,Kolkata,Home & Kitchen,Blender,3,64.99,15.0,165.72,117.0,48.72,Debit Card,Returned,5.0
+ORD00465,2025-07-31,CUST0232,New,Kochi,Home & Kitchen,Water Bottle,1,16.99,0.0,16.99,7.0,9.99,Cash on Delivery,Returned,8.0
+ORD00466,2025-04-07,CUST0053,New,Bengaluru,Clothing,Cotton T-Shirt,1,19.99,20.0,15.99,8.0,7.99,Cash on Delivery,Delivered,3.0
+ORD00467,2025-01-05,CUST0160,Loyal,Ahmedabad,Home & Kitchen,Water Bottle,1,16.99,5.0,16.14,7.0,9.14,Debit Card,Delivered,7.0
+ORD00468,2025-08-26,CUST0137,Loyal,Mumbai,Electronics,USB-C Charger,1,22.5,10.0,20.25,11.25,9.0,Net Banking,Delivered,1.0
+ORD00469,2025-08-29,CUST0063,Loyal,Hyderabad,Home & Kitchen,Coffee Maker,4,79.99,0.0,319.96,192.0,127.96,Cash on Delivery,Delivered,1.0
+ORD00470,2025-08-15,CUST0243,Returning,Delhi,Home & Kitchen,Water Bottle,1,16.99,10.0,15.29,7.0,8.29,Debit Card,Delivered,4.0
+ORD00471,2025-03-23,CUST0102,Returning,Pune,Electronics,Webcam,2,59.99,0.0,119.98,70.0,49.98,Credit Card,Returned,5.0
+ORD00472,2025-02-27,CUST0203,Loyal,Pune,Home & Kitchen,Desk Lamp,1,29.99,0.0,29.99,14.0,15.99,UPI,Delivered,2.0
+ORD00473,2025-10-25,CUST0256,New,Kochi,Books,Marketing Essentials,1,22.99,10.0,20.69,9.0,11.69,Debit Card,Delivered,3.0
+ORD00474,2025-11-17,CUST0055,New,Hyderabad,Electronics,Wireless Mouse,1,18.99,0.0,18.99,9.5,9.49,Debit Card,Cancelled,
+ORD00475,2025-10-13,CUST0069,New,Pune,Clothing,Backpack,3,44.99,0.0,134.97,69.0,65.97,Cash on Delivery,Delivered,6.0
+ORD00476,2025-12-28,CUST0179,New,Ahmedabad,Books,Marketing Essentials,1,22.99,10.0,20.69,9.0,11.69,Debit Card,Delivered,3.0
+ORD00477,2025-11-03,CUST0188,Returning,Kolkata,Sports,Resistance Bands,1,14.99,0.0,14.99,5.5,9.49,Cash on Delivery,Delivered,5.0
+ORD00478,2025-04-05,CUST0033,Returning,Kolkata,Electronics,Webcam,3,59.99,10.0,161.97,105.0,56.97,Cash on Delivery,Delivered,6.0
+ORD00479,2025-04-08,CUST0210,Returning,Mumbai,Sports,Skipping Rope,3,9.99,0.0,29.97,10.5,19.47,UPI,Delivered,6.0
+ORD00480,2025-09-25,CUST0055,Returning,Mumbai,Electronics,Wireless Mouse,3,18.99,0.0,56.97,28.5,28.47,UPI,Delivered,4.0
+ORD00481,2025-10-20,CUST0188,New,Mumbai,Books,Productivity Journal,2,14.99,10.0,26.98,10.0,16.98,UPI,Delivered,1.0
+ORD00482,2025-04-17,CUST0189,Loyal,Pune,Books,Data Analytics Basics,2,24.99,10.0,44.98,20.0,24.98,Net Banking,Delivered,7.0
+ORD00483,2025-05-17,CUST0050,New,Hyderabad,Sports,Yoga Mat,3,27.99,15.0,71.37,36.0,35.37,Net Banking,Delivered,4.0
+ORD00484,2025-07-17,CUST0213,Returning,Kochi,Home & Kitchen,Coffee Maker,2,79.99,0.0,159.98,96.0,63.98,Debit Card,Returned,3.0
+ORD00485,2025-12-12,CUST0259,New,Bengaluru,Books,Productivity Journal,4,14.99,0.0,59.96,20.0,39.96,Net Banking,Delivered,7.0
+ORD00486,2025-11-04,CUST0212,Loyal,Jaipur,Books,Python for Beginners,4,27.99,10.0,100.76,44.0,56.76,Debit Card,Delivered,6.0
+ORD00487,2025-11-08,CUST0131,Returning,Ahmedabad,Home & Kitchen,Blender,2,64.99,5.0,123.48,78.0,45.48,Cash on Delivery,Cancelled,
+ORD00488,2025-07-23,CUST0070,Loyal,Delhi,Electronics,Wireless Mouse,5,18.99,10.0,85.45,47.5,37.95,UPI,Cancelled,
+ORD00489,2025-06-03,CUST0080,New,Ahmedabad,Home & Kitchen,Coffee Maker,3,79.99,0.0,239.97,144.0,95.97,Debit Card,Returned,5.0
+ORD00490,2025-03-21,CUST0154,New,Jaipur,Home & Kitchen,Storage Box,1,12.99,10.0,11.69,5.5,6.19,Net Banking,Delivered,5.0
+ORD00491,2025-04-22,CUST0154,New,Kochi,Electronics,USB-C Charger,3,22.5,0.0,67.5,33.75,33.75,Cash on Delivery,Returned,2.0
+ORD00492,2025-02-10,CUST0117,Returning,Kochi,Electronics,USB-C Charger,1,22.5,15.0,19.12,11.25,7.87,UPI,Delivered,2.0
+ORD00493,2025-11-21,CUST0077,New,Hyderabad,Books,Data Analytics Basics,1,24.99,0.0,24.99,10.0,14.99,Credit Card,Cancelled,
+ORD00494,2025-01-26,CUST0222,New,Jaipur,Books,Productivity Journal,3,14.99,10.0,40.47,15.0,25.47,Credit Card,Delivered,4.0
+ORD00495,2025-03-09,CUST0205,New,Jaipur,Clothing,Cotton T-Shirt,2,19.99,10.0,35.98,16.0,19.98,Net Banking,Cancelled,
+ORD00496,2025-08-11,CUST0127,New,Delhi,Home & Kitchen,Coffee Maker,2,79.99,0.0,159.98,96.0,63.98,Cash on Delivery,Delivered,4.0
+ORD00497,2025-06-15,CUST0098,New,Kochi,Sports,Yoga Mat,1,27.99,5.0,26.59,12.0,14.59,UPI,Delivered,6.0
+ORD00498,2025-06-06,CUST0226,New,Hyderabad,Home & Kitchen,Storage Box,2,12.99,20.0,20.78,11.0,9.78,Credit Card,Delivered,3.0
+ORD00499,2025-12-17,CUST0125,Loyal,Bengaluru,Clothing,Hoodie,3,39.99,15.0,101.97,57.0,44.97,Debit Card,Delivered,1.0
+ORD00500,2025-01-08,CUST0109,New,Kolkata,Clothing,Cotton T-Shirt,1,19.99,5.0,18.99,8.0,10.99,Debit Card,Delivered,4.0
+ORD00501,2025-10-08,CUST0193,Returning,Kolkata,Books,Marketing Essentials,3,22.99,0.0,68.97,27.0,41.97,UPI,Returned,1.0
+ORD00502,2025-05-11,CUST0139,New,Pune,Home & Kitchen,Water Bottle,1,16.99,10.0,15.29,7.0,8.29,UPI,Cancelled,
+ORD00503,2025-07-18,CUST0119,Loyal,Kolkata,Clothing,Running Shoes,3,74.99,0.0,224.97,126.0,98.97,UPI,Returned,7.0
+ORD00504,2025-06-11,CUST0235,Returning,Pune,Books,Marketing Essentials,2,22.99,0.0,45.98,18.0,27.98,UPI,Cancelled,
+ORD00505,2025-05-07,CUST0178,Returning,Chennai,Sports,Gym Bottle,1,11.99,5.0,11.39,4.0,7.39,Debit Card,Delivered,1.0
+ORD00506,2025-05-01,CUST0144,New,Chennai,Sports,Gym Bottle,3,11.99,10.0,32.37,12.0,20.37,Cash on Delivery,Delivered,1.0
+ORD00507,2025-12-03,CUST0214,New,Bengaluru,Home & Kitchen,Water Bottle,3,16.99,5.0,48.42,21.0,27.42,Cash on Delivery,Returned,4.0
+ORD00508,2025-06-09,CUST0104,Loyal,Delhi,Sports,Gym Bottle,2,11.99,0.0,23.98,8.0,15.98,Net Banking,Returned,3.0
+ORD00509,2025-03-11,CUST0035,Returning,Mumbai,Books,Business Strategy Guide,2,29.99,10.0,53.98,26.0,27.98,Credit Card,Delivered,6.0
+ORD00510,2025-06-12,CUST0156,Returning,Delhi,Home & Kitchen,Water Bottle,3,16.99,15.0,43.32,21.0,22.32,Credit Card,Delivered,7.0
+ORD00511,2025-04-07,CUST0137,Returning,Kochi,Electronics,Bluetooth Headphones,1,49.99,10.0,44.99,28.0,16.99,Credit Card,Cancelled,
+ORD00512,2025-11-02,CUST0069,Returning,Kochi,Home & Kitchen,Coffee Maker,2,79.99,5.0,151.98,96.0,55.98,Cash on Delivery,Returned,8.0
+ORD00513,2025-12-31,CUST0099,New,Jaipur,Clothing,Hoodie,3,39.99,5.0,113.97,57.0,56.97,UPI,Delivered,3.0
+ORD00514,2025-05-19,CUST0091,Loyal,Ahmedabad,Books,Business Strategy Guide,3,29.99,20.0,71.98,39.0,32.98,Net Banking,Delivered,2.0
+ORD00515,2025-09-08,CUST0161,Returning,Kochi,Clothing,Backpack,4,44.99,5.0,170.96,92.0,78.96,Net Banking,Delivered,7.0
+ORD00516,2025-10-02,CUST0203,Loyal,Pune,Sports,Yoga Mat,2,27.99,5.0,53.18,24.0,29.18,Net Banking,Delivered,4.0
+ORD00517,2025-07-18,CUST0237,New,Delhi,Sports,Yoga Mat,1,27.99,5.0,26.59,12.0,14.59,Net Banking,Delivered,5.0
+ORD00518,2025-01-28,CUST0093,Loyal,Kolkata,Sports,Resistance Bands,2,14.99,10.0,26.98,11.0,15.98,Credit Card,Delivered,2.0
+ORD00519,2025-07-21,CUST0104,Loyal,Mumbai,Books,Python for Beginners,2,27.99,0.0,55.98,22.0,33.98,Debit Card,Cancelled,
+ORD00520,2025-06-15,CUST0044,Returning,Jaipur,Home & Kitchen,Water Bottle,1,16.99,10.0,15.29,7.0,8.29,Net Banking,Returned,6.0
+ORD00521,2025-11-10,CUST0077,New,Bengaluru,Home & Kitchen,Desk Lamp,2,29.99,0.0,59.98,28.0,31.98,Credit Card,Delivered,6.0
+ORD00522,2025-12-31,CUST0093,New,Bengaluru,Electronics,Laptop Stand,1,34.99,10.0,31.49,18.0,13.49,Credit Card,Delivered,5.0
+ORD00523,2025-01-02,CUST0253,New,Kochi,Sports,Gym Bottle,1,11.99,5.0,11.39,4.0,7.39,Cash on Delivery,Delivered,1.0
+ORD00524,2025-08-21,CUST0107,New,Bengaluru,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,UPI,Delivered,5.0
+ORD00525,2025-12-01,CUST0153,New,Mumbai,Clothing,Cotton T-Shirt,1,19.99,0.0,19.99,8.0,11.99,UPI,Cancelled,
+ORD00526,2025-02-25,CUST0234,Returning,Chennai,Books,Business Strategy Guide,1,29.99,0.0,29.99,13.0,16.99,UPI,Returned,3.0
+ORD00527,2025-02-17,CUST0034,New,Bengaluru,Clothing,Running Shoes,1,74.99,5.0,71.24,42.0,29.24,UPI,Delivered,7.0
+ORD00528,2025-12-22,CUST0030,New,Kolkata,Clothing,Running Shoes,2,74.99,5.0,142.48,84.0,58.48,UPI,Returned,4.0
+ORD00529,2025-09-05,CUST0067,Returning,Ahmedabad,Sports,Gym Bottle,2,11.99,15.0,20.38,8.0,12.38,Net Banking,Delivered,6.0
+ORD00530,2025-11-20,CUST0100,New,Pune,Books,Productivity Journal,3,14.99,15.0,38.22,15.0,23.22,Cash on Delivery,Delivered,5.0
+ORD00531,2025-11-17,CUST0171,New,Hyderabad,Electronics,Bluetooth Headphones,3,49.99,20.0,119.98,84.0,35.98,UPI,Delivered,1.0
+ORD00532,2025-11-24,CUST0004,New,Chennai,Home & Kitchen,Storage Box,1,12.99,0.0,12.99,5.5,7.49,Debit Card,Delivered,6.0
+ORD00533,2025-07-22,CUST0174,Loyal,Ahmedabad,Sports,Fitness Tracker,5,89.99,15.0,382.46,275.0,107.46,Cash on Delivery,Delivered,6.0
+ORD00534,2025-01-19,CUST0172,Returning,Jaipur,Home & Kitchen,Desk Lamp,1,29.99,5.0,28.49,14.0,14.49,UPI,Cancelled,
+ORD00535,2025-09-24,CUST0010,New,Chennai,Clothing,Jeans,3,49.99,0.0,149.97,78.0,71.97,Debit Card,Cancelled,
+ORD00536,2025-02-03,CUST0200,New,Mumbai,Home & Kitchen,Storage Box,3,12.99,0.0,38.97,16.5,22.47,Debit Card,Delivered,3.0
+ORD00537,2025-12-28,CUST0232,Loyal,Delhi,Clothing,Cotton T-Shirt,1,19.99,0.0,19.99,8.0,11.99,Credit Card,Delivered,6.0
+ORD00538,2025-09-26,CUST0228,Returning,Ahmedabad,Clothing,Hoodie,1,39.99,10.0,35.99,19.0,16.99,Net Banking,Delivered,2.0
+ORD00539,2025-03-20,CUST0159,Loyal,Bengaluru,Home & Kitchen,Storage Box,4,12.99,10.0,46.76,22.0,24.76,UPI,Cancelled,
+ORD00540,2025-09-22,CUST0003,New,Pune,Home & Kitchen,Coffee Maker,3,79.99,5.0,227.97,144.0,83.97,Net Banking,Returned,2.0
+ORD00541,2025-02-14,CUST0012,Returning,Delhi,Clothing,Backpack,4,44.99,0.0,179.96,92.0,87.96,Credit Card,Returned,5.0
+ORD00542,2025-06-14,CUST0140,New,Delhi,Home & Kitchen,Coffee Maker,1,79.99,5.0,75.99,48.0,27.99,UPI,Delivered,2.0
+ORD00543,2025-01-08,CUST0139,New,Delhi,Sports,Fitness Tracker,2,89.99,0.0,179.98,110.0,69.98,Net Banking,Delivered,6.0
+ORD00544,2025-05-06,CUST0228,New,Pune,Home & Kitchen,Water Bottle,1,16.99,15.0,14.44,7.0,7.44,Cash on Delivery,Cancelled,
+ORD00545,2025-12-12,CUST0229,Returning,Delhi,Electronics,Wireless Mouse,1,18.99,0.0,18.99,9.5,9.49,Debit Card,Delivered,3.0
+ORD00546,2025-04-12,CUST0048,Loyal,Ahmedabad,Sports,Yoga Mat,5,27.99,10.0,125.95,60.0,65.95,UPI,Delivered,3.0
+ORD00547,2025-08-22,CUST0187,Returning,Chennai,Clothing,Backpack,2,44.99,15.0,76.48,46.0,30.48,Debit Card,Delivered,5.0
+ORD00548,2025-08-21,CUST0088,New,Chennai,Books,Data Analytics Basics,1,24.99,0.0,24.99,10.0,14.99,Net Banking,Delivered,8.0
+ORD00549,2025-10-22,CUST0037,Loyal,Kolkata,Home & Kitchen,Blender,1,64.99,15.0,55.24,39.0,16.24,Cash on Delivery,Delivered,6.0
+ORD00550,2025-07-25,CUST0197,New,Hyderabad,Sports,Skipping Rope,1,9.99,0.0,9.99,3.5,6.49,Net Banking,Delivered,8.0
+ORD00551,2025-08-09,CUST0040,Returning,Kochi,Books,Marketing Essentials,3,22.99,5.0,65.52,27.0,38.52,Cash on Delivery,Delivered,3.0
+ORD00552,2025-02-28,CUST0158,Loyal,Mumbai,Sports,Fitness Tracker,2,89.99,10.0,161.98,110.0,51.98,Net Banking,Delivered,3.0
+ORD00553,2025-02-25,CUST0112,Loyal,Kochi,Sports,Skipping Rope,1,9.99,10.0,8.99,3.5,5.49,UPI,Delivered,2.0
+ORD00554,2025-03-17,CUST0229,New,Chennai,Home & Kitchen,Desk Lamp,2,29.99,5.0,56.98,28.0,28.98,Debit Card,Cancelled,
+ORD00555,2025-10-19,CUST0207,Loyal,Delhi,Clothing,Backpack,2,44.99,15.0,76.48,46.0,30.48,UPI,Delivered,1.0
+ORD00556,2025-07-09,CUST0145,Loyal,Hyderabad,Sports,Yoga Mat,1,27.99,10.0,25.19,12.0,13.19,Cash on Delivery,Delivered,2.0
+ORD00557,2025-12-26,CUST0223,Returning,Bengaluru,Sports,Skipping Rope,2,9.99,10.0,17.98,7.0,10.98,Cash on Delivery,Delivered,7.0
+ORD00558,2025-03-13,CUST0148,Loyal,Bengaluru,Home & Kitchen,Blender,1,64.99,15.0,55.24,39.0,16.24,Credit Card,Delivered,3.0
+ORD00559,2025-01-06,CUST0070,New,Jaipur,Electronics,Wireless Mouse,1,18.99,15.0,16.14,9.5,6.64,Cash on Delivery,Returned,7.0
+ORD00560,2025-12-23,CUST0197,Returning,Bengaluru,Sports,Skipping Rope,2,9.99,5.0,18.98,7.0,11.98,Cash on Delivery,Delivered,8.0
+ORD00561,2025-11-06,CUST0211,Loyal,Kochi,Electronics,Webcam,2,59.99,10.0,107.98,70.0,37.98,Debit Card,Returned,5.0
+ORD00562,2025-01-18,CUST0247,Loyal,Mumbai,Electronics,Webcam,2,59.99,5.0,113.98,70.0,43.98,Credit Card,Cancelled,
+ORD00563,2025-09-27,CUST0046,New,Mumbai,Clothing,Backpack,2,44.99,5.0,85.48,46.0,39.48,Net Banking,Cancelled,
+ORD00564,2025-10-24,CUST0233,Returning,Ahmedabad,Clothing,Jeans,1,49.99,0.0,49.99,26.0,23.99,Net Banking,Delivered,8.0
+ORD00565,2025-06-19,CUST0019,Returning,Kochi,Books,Python for Beginners,5,27.99,10.0,125.95,55.0,70.95,Debit Card,Delivered,3.0
+ORD00566,2025-10-16,CUST0027,Returning,Delhi,Clothing,Cotton T-Shirt,2,19.99,10.0,35.98,16.0,19.98,Net Banking,Cancelled,
+ORD00567,2025-01-14,CUST0068,Returning,Delhi,Clothing,Backpack,1,44.99,5.0,42.74,23.0,19.74,Debit Card,Delivered,5.0
+ORD00568,2025-01-08,CUST0190,Loyal,Delhi,Electronics,Webcam,1,59.99,10.0,53.99,35.0,18.99,Credit Card,Delivered,8.0
+ORD00569,2025-09-06,CUST0079,Loyal,Jaipur,Home & Kitchen,Blender,3,64.99,0.0,194.97,117.0,77.97,Cash on Delivery,Delivered,3.0
+ORD00570,2025-05-02,CUST0136,Loyal,Mumbai,Books,Business Strategy Guide,1,29.99,10.0,26.99,13.0,13.99,UPI,Delivered,1.0
+ORD00571,2025-03-27,CUST0120,Returning,Jaipur,Books,Productivity Journal,2,14.99,5.0,28.48,10.0,18.48,Cash on Delivery,Cancelled,
+ORD00572,2025-05-15,CUST0162,Loyal,Pune,Home & Kitchen,Blender,3,64.99,0.0,194.97,117.0,77.97,UPI,Delivered,7.0
+ORD00573,2025-09-30,CUST0139,New,Mumbai,Clothing,Backpack,2,44.99,10.0,80.98,46.0,34.98,Debit Card,Delivered,6.0
+ORD00574,2025-12-02,CUST0173,Returning,Bengaluru,Sports,Skipping Rope,2,9.99,10.0,17.98,7.0,10.98,Debit Card,Delivered,4.0
+ORD00575,2025-10-08,CUST0229,Returning,Delhi,Electronics,Wireless Mouse,3,18.99,0.0,56.97,28.5,28.47,Debit Card,Delivered,2.0
+ORD00576,2025-04-09,CUST0112,Loyal,Mumbai,Electronics,Wireless Mouse,2,18.99,0.0,37.98,19.0,18.98,UPI,Cancelled,
+ORD00577,2025-02-14,CUST0057,Returning,Delhi,Sports,Resistance Bands,1,14.99,10.0,13.49,5.5,7.99,Debit Card,Returned,3.0
+ORD00578,2025-08-28,CUST0132,New,Mumbai,Electronics,Laptop Stand,4,34.99,0.0,139.96,72.0,67.96,Debit Card,Delivered,6.0
+ORD00579,2025-02-01,CUST0226,New,Hyderabad,Books,Productivity Journal,1,14.99,0.0,14.99,5.0,9.99,Net Banking,Delivered,3.0
+ORD00580,2025-07-21,CUST0055,Loyal,Delhi,Home & Kitchen,Desk Lamp,1,29.99,5.0,28.49,14.0,14.49,UPI,Delivered,4.0
+ORD00581,2025-01-18,CUST0255,New,Pune,Electronics,Wireless Mouse,2,18.99,0.0,37.98,19.0,18.98,UPI,Delivered,1.0
+ORD00582,2025-12-07,CUST0252,Returning,Jaipur,Books,Python for Beginners,1,27.99,0.0,27.99,11.0,16.99,UPI,Delivered,1.0
+ORD00583,2025-10-04,CUST0184,New,Delhi,Home & Kitchen,Water Bottle,1,16.99,10.0,15.29,7.0,8.29,Cash on Delivery,Delivered,2.0
+ORD00584,2025-01-29,CUST0149,Returning,Bengaluru,Electronics,USB-C Charger,2,22.5,20.0,36.0,22.5,13.5,Net Banking,Delivered,8.0
+ORD00585,2025-01-21,CUST0250,New,Ahmedabad,Books,Business Strategy Guide,1,29.99,5.0,28.49,13.0,15.49,Credit Card,Delivered,6.0
+ORD00586,2025-03-13,CUST0200,New,Kolkata,Electronics,Bluetooth Headphones,1,49.99,20.0,39.99,28.0,11.99,Debit Card,Delivered,8.0
+ORD00587,2025-09-13,CUST0173,Loyal,Pune,Sports,Skipping Rope,5,9.99,0.0,49.95,17.5,32.45,Cash on Delivery,Delivered,1.0
+ORD00588,2025-03-02,CUST0077,Returning,Hyderabad,Home & Kitchen,Blender,2,64.99,10.0,116.98,78.0,38.98,UPI,Cancelled,
+ORD00589,2025-01-19,CUST0024,New,Bengaluru,Home & Kitchen,Desk Lamp,2,29.99,5.0,56.98,28.0,28.98,UPI,Cancelled,
+ORD00590,2025-03-30,CUST0088,Loyal,Mumbai,Electronics,USB-C Charger,3,22.5,0.0,67.5,33.75,33.75,UPI,Cancelled,
+ORD00591,2025-02-28,CUST0173,Loyal,Jaipur,Books,Marketing Essentials,3,22.99,0.0,68.97,27.0,41.97,Debit Card,Delivered,7.0
+ORD00592,2025-03-03,CUST0089,New,Mumbai,Sports,Fitness Tracker,1,89.99,15.0,76.49,55.0,21.49,Debit Card,Delivered,1.0
+ORD00593,2025-03-14,CUST0021,New,Kochi,Books,Business Strategy Guide,2,29.99,10.0,53.98,26.0,27.98,Cash on Delivery,Delivered,4.0
+ORD00594,2025-03-22,CUST0214,Returning,Ahmedabad,Electronics,Laptop Stand,1,34.99,0.0,34.99,18.0,16.99,Credit Card,Delivered,5.0
+ORD00595,2025-04-16,CUST0093,Returning,Kochi,Home & Kitchen,Storage Box,2,12.99,5.0,24.68,11.0,13.68,UPI,Delivered,1.0
+ORD00596,2025-11-18,CUST0049,Returning,Kolkata,Clothing,Running Shoes,1,74.99,10.0,67.49,42.0,25.49,Net Banking,Delivered,2.0
+ORD00597,2025-04-23,CUST0255,New,Pune,Books,Business Strategy Guide,1,29.99,0.0,29.99,13.0,16.99,UPI,Delivered,8.0
+ORD00598,2025-11-27,CUST0233,New,Pune,Clothing,Running Shoes,1,74.99,0.0,74.99,42.0,32.99,Net Banking,Cancelled,
+ORD00599,2025-04-01,CUST0167,Returning,Chennai,Home & Kitchen,Water Bottle,2,16.99,0.0,33.98,14.0,19.98,Credit Card,Delivered,8.0
+ORD00600,2025-02-26,CUST0113,New,Kochi,Clothing,Hoodie,1,39.99,10.0,35.99,19.0,16.99,Cash on Delivery,Delivered,7.0
+ORD00601,2025-01-28,CUST0192,New,Hyderabad,Books,Business Strategy Guide,1,29.99,10.0,26.99,13.0,13.99,Debit Card,Delivered,7.0
+ORD00602,2025-05-19,CUST0070,New,Ahmedabad,Home & Kitchen,Storage Box,1,12.99,10.0,11.69,5.5,6.19,Cash on Delivery,Delivered,5.0
+ORD00603,2025-08-03,CUST0118,New,Kolkata,Home & Kitchen,Storage Box,1,12.99,0.0,12.99,5.5,7.49,Cash on Delivery,Delivered,3.0
+ORD00604,2025-04-21,CUST0127,New,Jaipur,Sports,Skipping Rope,3,9.99,0.0,29.97,10.5,19.47,Net Banking,Returned,7.0
+ORD00605,2025-04-24,CUST0021,Loyal,Kolkata,Sports,Resistance Bands,4,14.99,15.0,50.97,22.0,28.97,UPI,Delivered,1.0
+ORD00606,2025-08-06,CUST0254,New,Kolkata,Sports,Skipping Rope,2,9.99,10.0,17.98,7.0,10.98,UPI,Delivered,8.0
+ORD00607,2025-12-21,CUST0009,Returning,Delhi,Books,Business Strategy Guide,1,29.99,0.0,29.99,13.0,16.99,Credit Card,Returned,2.0
+ORD00608,2025-12-27,CUST0071,Loyal,Jaipur,Books,Marketing Essentials,3,22.99,0.0,68.97,27.0,41.97,Credit Card,Delivered,8.0
+ORD00609,2025-07-09,CUST0017,New,Delhi,Books,Data Analytics Basics,3,24.99,0.0,74.97,30.0,44.97,Net Banking,Returned,6.0
+ORD00610,2025-10-05,CUST0187,Loyal,Mumbai,Sports,Resistance Bands,3,14.99,0.0,44.97,16.5,28.47,Cash on Delivery,Delivered,1.0
+ORD00611,2025-07-07,CUST0105,New,Chennai,Books,Marketing Essentials,1,22.99,5.0,21.84,9.0,12.84,Credit Card,Returned,2.0
+ORD00612,2025-10-04,CUST0116,New,Delhi,Electronics,Laptop Stand,3,34.99,10.0,94.47,54.0,40.47,Net Banking,Returned,4.0
+ORD00613,2025-12-15,CUST0257,Returning,Mumbai,Books,Python for Beginners,1,27.99,5.0,26.59,11.0,15.59,Cash on Delivery,Delivered,8.0
+ORD00614,2025-12-30,CUST0097,Loyal,Ahmedabad,Sports,Fitness Tracker,4,89.99,5.0,341.96,220.0,121.96,UPI,Delivered,2.0
+ORD00615,2025-02-11,CUST0142,New,Bengaluru,Books,Business Strategy Guide,1,29.99,20.0,23.99,13.0,10.99,Cash on Delivery,Delivered,3.0
+ORD00616,2025-03-19,CUST0243,New,Ahmedabad,Home & Kitchen,Blender,4,64.99,0.0,259.96,156.0,103.96,UPI,Delivered,3.0
+ORD00617,2025-05-30,CUST0172,Returning,Chennai,Home & Kitchen,Water Bottle,1,16.99,15.0,14.44,7.0,7.44,Debit Card,Cancelled,
+ORD00618,2025-09-06,CUST0157,New,Delhi,Sports,Fitness Tracker,3,89.99,5.0,256.47,165.0,91.47,Credit Card,Delivered,3.0
+ORD00619,2025-09-05,CUST0234,Loyal,Kochi,Clothing,Running Shoes,3,74.99,0.0,224.97,126.0,98.97,Credit Card,Delivered,5.0
+ORD00620,2025-12-31,CUST0083,New,Pune,Sports,Gym Bottle,1,11.99,0.0,11.99,4.0,7.99,Debit Card,Returned,3.0
+ORD00621,2025-10-22,CUST0018,Returning,Chennai,Home & Kitchen,Desk Lamp,1,29.99,0.0,29.99,14.0,15.99,Credit Card,Cancelled,
+ORD00622,2025-07-10,CUST0208,Loyal,Bengaluru,Books,Marketing Essentials,5,22.99,5.0,109.2,45.0,64.2,Cash on Delivery,Delivered,1.0
+ORD00623,2025-06-13,CUST0170,Returning,Delhi,Home & Kitchen,Water Bottle,5,16.99,5.0,80.7,35.0,45.7,Cash on Delivery,Cancelled,
+ORD00624,2025-05-29,CUST0058,Returning,Pune,Sports,Resistance Bands,3,14.99,10.0,40.47,16.5,23.97,Credit Card,Delivered,6.0
+ORD00625,2025-12-14,CUST0183,New,Pune,Sports,Yoga Mat,1,27.99,5.0,26.59,12.0,14.59,Net Banking,Delivered,8.0
+ORD00626,2025-11-25,CUST0012,New,Ahmedabad,Home & Kitchen,Blender,2,64.99,10.0,116.98,78.0,38.98,UPI,Delivered,4.0
+ORD00627,2025-09-20,CUST0029,Loyal,Chennai,Books,Business Strategy Guide,2,29.99,10.0,53.98,26.0,27.98,Cash on Delivery,Cancelled,
+ORD00628,2025-03-17,CUST0158,Loyal,Kolkata,Books,Python for Beginners,1,27.99,0.0,27.99,11.0,16.99,UPI,Delivered,6.0
+ORD00629,2025-04-21,CUST0213,New,Kochi,Books,Productivity Journal,3,14.99,0.0,44.97,15.0,29.97,Net Banking,Returned,7.0
+ORD00630,2025-02-14,CUST0172,New,Kochi,Home & Kitchen,Coffee Maker,1,79.99,20.0,63.99,48.0,15.99,Cash on Delivery,Cancelled,
+ORD00631,2025-02-15,CUST0071,New,Jaipur,Electronics,Laptop Stand,2,34.99,0.0,69.98,36.0,33.98,Debit Card,Delivered,8.0
+ORD00632,2025-10-11,CUST0156,Returning,Ahmedabad,Books,Data Analytics Basics,3,24.99,0.0,74.97,30.0,44.97,Credit Card,Cancelled,
+ORD00633,2025-01-14,CUST0064,Returning,Delhi,Electronics,Bluetooth Headphones,1,49.99,20.0,39.99,28.0,11.99,Cash on Delivery,Returned,8.0
+ORD00634,2025-04-02,CUST0186,Returning,Kochi,Books,Business Strategy Guide,1,29.99,10.0,26.99,13.0,13.99,Cash on Delivery,Delivered,2.0
+ORD00635,2025-05-13,CUST0084,Returning,Bengaluru,Books,Data Analytics Basics,1,24.99,10.0,22.49,10.0,12.49,Debit Card,Delivered,5.0
+ORD00636,2025-08-25,CUST0025,New,Kolkata,Home & Kitchen,Storage Box,1,12.99,0.0,12.99,5.5,7.49,UPI,Delivered,6.0
+ORD00637,2025-09-21,CUST0162,Loyal,Delhi,Home & Kitchen,Coffee Maker,3,79.99,10.0,215.97,144.0,71.97,Debit Card,Delivered,6.0
+ORD00638,2025-12-17,CUST0071,Returning,Chennai,Clothing,Cotton T-Shirt,2,19.99,5.0,37.98,16.0,21.98,Cash on Delivery,Delivered,1.0
+ORD00639,2025-07-30,CUST0059,Returning,Mumbai,Clothing,Hoodie,1,39.99,0.0,39.99,19.0,20.99,UPI,Delivered,4.0
+ORD00640,2025-03-09,CUST0176,New,Delhi,Electronics,Laptop Stand,1,34.99,10.0,31.49,18.0,13.49,UPI,Delivered,8.0
+ORD00641,2025-03-02,CUST0065,New,Mumbai,Home & Kitchen,Coffee Maker,3,79.99,0.0,239.97,144.0,95.97,Cash on Delivery,Delivered,5.0
+ORD00642,2025-12-20,CUST0101,New,Kolkata,Electronics,Wireless Mouse,1,18.99,5.0,18.04,9.5,8.54,Net Banking,Delivered,1.0
+ORD00643,2025-01-31,CUST0050,Loyal,Kochi,Books,Data Analytics Basics,4,24.99,0.0,99.96,40.0,59.96,Credit Card,Delivered,1.0
+ORD00644,2025-10-28,CUST0179,Returning,Kolkata,Home & Kitchen,Coffee Maker,2,79.99,0.0,159.98,96.0,63.98,Net Banking,Delivered,5.0
+ORD00645,2025-05-04,CUST0099,Loyal,Bengaluru,Sports,Fitness Tracker,1,89.99,15.0,76.49,55.0,21.49,Net Banking,Delivered,4.0
+ORD00646,2025-01-03,CUST0095,Returning,Mumbai,Electronics,Bluetooth Headphones,4,49.99,15.0,169.97,112.0,57.97,Credit Card,Delivered,6.0
+ORD00647,2025-07-01,CUST0064,Returning,Kolkata,Books,Productivity Journal,1,14.99,0.0,14.99,5.0,9.99,Credit Card,Delivered,6.0
+ORD00648,2025-09-11,CUST0060,Returning,Ahmedabad,Clothing,Running Shoes,2,74.99,0.0,149.98,84.0,65.98,Net Banking,Delivered,8.0
+ORD00649,2025-06-09,CUST0036,Loyal,Ahmedabad,Books,Business Strategy Guide,2,29.99,0.0,59.98,26.0,33.98,Debit Card,Delivered,4.0
+ORD00650,2025-04-02,CUST0044,New,Jaipur,Electronics,Laptop Stand,2,34.99,5.0,66.48,36.0,30.48,Cash on Delivery,Cancelled,
+ORD00651,2025-12-22,CUST0187,Loyal,Chennai,Sports,Yoga Mat,3,27.99,15.0,71.37,36.0,35.37,Credit Card,Delivered,2.0
+ORD00652,2025-11-01,CUST0140,Loyal,Jaipur,Books,Data Analytics Basics,1,24.99,5.0,23.74,10.0,13.74,Debit Card,Delivered,5.0
+ORD00653,2025-09-01,CUST0056,New,Ahmedabad,Sports,Skipping Rope,5,9.99,5.0,47.45,17.5,29.95,Cash on Delivery,Delivered,8.0
+ORD00654,2025-04-29,CUST0014,Loyal,Jaipur,Home & Kitchen,Water Bottle,1,16.99,0.0,16.99,7.0,9.99,Net Banking,Delivered,8.0
+ORD00655,2025-12-14,CUST0239,New,Ahmedabad,Clothing,Hoodie,1,39.99,10.0,35.99,19.0,16.99,Cash on Delivery,Delivered,8.0
+ORD00656,2025-09-16,CUST0010,Loyal,Pune,Clothing,Jeans,1,49.99,15.0,42.49,26.0,16.49,Cash on Delivery,Cancelled,
+ORD00657,2025-03-02,CUST0017,New,Delhi,Books,Productivity Journal,1,14.99,5.0,14.24,5.0,9.24,Credit Card,Delivered,1.0
+ORD00658,2025-09-09,CUST0241,Returning,Bengaluru,Books,Business Strategy Guide,1,29.99,5.0,28.49,13.0,15.49,Net Banking,Delivered,8.0
+ORD00659,2025-01-29,CUST0181,Loyal,Delhi,Books,Python for Beginners,2,27.99,20.0,44.78,22.0,22.78,Debit Card,Cancelled,
+ORD00660,2025-02-01,CUST0175,Returning,Jaipur,Electronics,Webcam,1,59.99,15.0,50.99,35.0,15.99,Debit Card,Delivered,1.0
+ORD00661,2025-07-02,CUST0044,Loyal,Mumbai,Books,Python for Beginners,1,27.99,0.0,27.99,11.0,16.99,Debit Card,Delivered,5.0
+ORD00662,2025-02-28,CUST0216,New,Ahmedabad,Clothing,Hoodie,1,39.99,0.0,39.99,19.0,20.99,Net Banking,Delivered,7.0
+ORD00663,2025-01-12,CUST0052,Returning,Hyderabad,Clothing,Backpack,2,44.99,0.0,89.98,46.0,43.98,Debit Card,Delivered,8.0
+ORD00664,2025-09-12,CUST0255,Returning,Mumbai,Sports,Gym Bottle,1,11.99,0.0,11.99,4.0,7.99,Net Banking,Delivered,4.0
+ORD00665,2025-04-20,CUST0048,Returning,Kochi,Clothing,Running Shoes,1,74.99,20.0,59.99,42.0,17.99,UPI,Delivered,4.0
+ORD00666,2025-10-31,CUST0108,New,Mumbai,Clothing,Running Shoes,1,74.99,15.0,63.74,42.0,21.74,Debit Card,Delivered,7.0
+ORD00667,2025-09-16,CUST0129,Returning,Ahmedabad,Clothing,Backpack,2,44.99,0.0,89.98,46.0,43.98,Net Banking,Delivered,7.0
+ORD00668,2025-04-03,CUST0138,Loyal,Kolkata,Electronics,Webcam,3,59.99,10.0,161.97,105.0,56.97,Net Banking,Delivered,8.0
+ORD00669,2025-08-11,CUST0078,Returning,Delhi,Sports,Yoga Mat,2,27.99,5.0,53.18,24.0,29.18,Cash on Delivery,Delivered,4.0
+ORD00670,2025-07-30,CUST0083,New,Kochi,Clothing,Cotton T-Shirt,2,19.99,15.0,33.98,16.0,17.98,Credit Card,Delivered,5.0
+ORD00671,2025-07-27,CUST0249,Returning,Jaipur,Home & Kitchen,Water Bottle,1,16.99,0.0,16.99,7.0,9.99,Cash on Delivery,Delivered,8.0
+ORD00672,2025-11-28,CUST0091,Returning,Pune,Electronics,Bluetooth Headphones,1,49.99,0.0,49.99,28.0,21.99,Cash on Delivery,Delivered,5.0
+ORD00673,2025-01-11,CUST0187,Returning,Mumbai,Electronics,Wireless Mouse,1,18.99,0.0,18.99,9.5,9.49,Cash on Delivery,Delivered,7.0
+ORD00674,2025-03-13,CUST0255,Loyal,Hyderabad,Home & Kitchen,Water Bottle,2,16.99,5.0,32.28,14.0,18.28,Net Banking,Delivered,5.0
+ORD00675,2025-03-04,CUST0217,New,Mumbai,Clothing,Running Shoes,3,74.99,10.0,202.47,126.0,76.47,Credit Card,Returned,4.0
+ORD00676,2025-04-20,CUST0192,Returning,Mumbai,Clothing,Backpack,1,44.99,15.0,38.24,23.0,15.24,Debit Card,Delivered,8.0
+ORD00677,2025-10-07,CUST0244,Returning,Delhi,Books,Productivity Journal,2,14.99,20.0,23.98,10.0,13.98,UPI,Delivered,6.0
+ORD00678,2025-11-27,CUST0130,Returning,Delhi,Sports,Yoga Mat,3,27.99,10.0,75.57,36.0,39.57,Debit Card,Delivered,4.0
+ORD00679,2025-12-17,CUST0202,Loyal,Delhi,Electronics,Webcam,3,59.99,15.0,152.97,105.0,47.97,Debit Card,Delivered,1.0
+ORD00680,2025-02-16,CUST0209,Loyal,Delhi,Home & Kitchen,Storage Box,1,12.99,15.0,11.04,5.5,5.54,UPI,Delivered,6.0
+ORD00681,2025-09-09,CUST0083,Returning,Kolkata,Books,Productivity Journal,4,14.99,0.0,59.96,20.0,39.96,UPI,Delivered,2.0
+ORD00682,2025-06-30,CUST0015,Loyal,Bengaluru,Books,Marketing Essentials,3,22.99,5.0,65.52,27.0,38.52,Cash on Delivery,Delivered,8.0
+ORD00683,2025-11-25,CUST0057,New,Kolkata,Home & Kitchen,Water Bottle,1,16.99,10.0,15.29,7.0,8.29,Credit Card,Delivered,2.0
+ORD00684,2025-11-01,CUST0089,Returning,Chennai,Books,Python for Beginners,2,27.99,15.0,47.58,22.0,25.58,Debit Card,Delivered,5.0
+ORD00685,2025-04-12,CUST0011,Loyal,Kolkata,Electronics,Laptop Stand,1,34.99,5.0,33.24,18.0,15.24,Net Banking,Delivered,4.0
+ORD00686,2025-11-17,CUST0026,Returning,Jaipur,Home & Kitchen,Water Bottle,5,16.99,0.0,84.95,35.0,49.95,Net Banking,Returned,3.0
+ORD00687,2025-05-14,CUST0061,New,Kolkata,Home & Kitchen,Water Bottle,4,16.99,0.0,67.96,28.0,39.96,Cash on Delivery,Cancelled,
+ORD00688,2025-08-21,CUST0254,Returning,Jaipur,Books,Data Analytics Basics,1,24.99,0.0,24.99,10.0,14.99,Credit Card,Delivered,5.0
+ORD00689,2025-11-04,CUST0075,New,Delhi,Home & Kitchen,Storage Box,3,12.99,0.0,38.97,16.5,22.47,Credit Card,Delivered,7.0
+ORD00690,2025-11-13,CUST0006,Returning,Chennai,Books,Business Strategy Guide,1,29.99,10.0,26.99,13.0,13.99,Cash on Delivery,Delivered,2.0
+ORD00691,2025-12-18,CUST0049,Returning,Pune,Home & Kitchen,Desk Lamp,2,29.99,10.0,53.98,28.0,25.98,Debit Card,Delivered,2.0
+ORD00692,2025-05-01,CUST0024,New,Kolkata,Books,Python for Beginners,5,27.99,15.0,118.96,55.0,63.96,Net Banking,Cancelled,
+ORD00693,2025-07-15,CUST0022,Returning,Delhi,Clothing,Backpack,2,44.99,0.0,89.98,46.0,43.98,Credit Card,Cancelled,
+ORD00694,2025-09-15,CUST0073,New,Chennai,Books,Python for Beginners,3,27.99,0.0,83.97,33.0,50.97,UPI,Delivered,7.0
+ORD00695,2025-03-07,CUST0136,Returning,Jaipur,Books,Python for Beginners,3,27.99,15.0,71.37,33.0,38.37,Credit Card,Delivered,5.0
+ORD00696,2025-06-11,CUST0028,New,Pune,Books,Business Strategy Guide,2,29.99,15.0,50.98,26.0,24.98,Credit Card,Returned,8.0
+ORD00697,2025-04-04,CUST0254,New,Chennai,Electronics,Laptop Stand,1,34.99,10.0,31.49,18.0,13.49,Net Banking,Delivered,2.0
+ORD00698,2025-09-06,CUST0179,New,Delhi,Books,Productivity Journal,1,14.99,10.0,13.49,5.0,8.49,Credit Card,Delivered,2.0
+ORD00699,2025-03-28,CUST0093,Returning,Mumbai,Sports,Gym Bottle,2,11.99,10.0,21.58,8.0,13.58,Credit Card,Delivered,1.0
+ORD00700,2025-09-13,CUST0202,Returning,Mumbai,Electronics,USB-C Charger,1,22.5,10.0,20.25,11.25,9.0,Debit Card,Returned,2.0
+ORD00701,2025-03-20,CUST0138,Returning,Pune,Electronics,Wireless Mouse,2,18.99,10.0,34.18,19.0,15.18,Debit Card,Delivered,8.0
+ORD00702,2025-01-23,CUST0109,Loyal,Delhi,Sports,Skipping Rope,1,9.99,10.0,8.99,3.5,5.49,Debit Card,Returned,3.0
+ORD00703,2025-01-29,CUST0092,New,Jaipur,Electronics,Webcam,4,59.99,5.0,227.96,140.0,87.96,UPI,Delivered,5.0
+ORD00704,2025-01-11,CUST0062,New,Jaipur,Home & Kitchen,Coffee Maker,1,79.99,5.0,75.99,48.0,27.99,Debit Card,Returned,3.0
+ORD00705,2025-12-17,CUST0251,Returning,Jaipur,Sports,Resistance Bands,1,14.99,0.0,14.99,5.5,9.49,Cash on Delivery,Delivered,4.0
+ORD00706,2025-05-18,CUST0223,Returning,Mumbai,Sports,Fitness Tracker,2,89.99,10.0,161.98,110.0,51.98,UPI,Delivered,3.0
+ORD00707,2025-09-20,CUST0254,Returning,Kolkata,Clothing,Backpack,2,44.99,10.0,80.98,46.0,34.98,UPI,Returned,3.0
+ORD00708,2025-05-29,CUST0066,Returning,Delhi,Books,Productivity Journal,1,14.99,15.0,12.74,5.0,7.74,Credit Card,Delivered,3.0
+ORD00709,2025-09-25,CUST0218,Returning,Ahmedabad,Books,Python for Beginners,2,27.99,10.0,50.38,22.0,28.38,Net Banking,Delivered,2.0
+ORD00710,2025-05-10,CUST0237,New,Bengaluru,Clothing,Running Shoes,2,74.99,10.0,134.98,84.0,50.98,Cash on Delivery,Delivered,2.0
+ORD00711,2025-01-24,CUST0233,Loyal,Ahmedabad,Electronics,Laptop Stand,3,34.99,0.0,104.97,54.0,50.97,Net Banking,Cancelled,
+ORD00712,2025-05-16,CUST0133,Loyal,Mumbai,Clothing,Hoodie,1,39.99,0.0,39.99,19.0,20.99,Cash on Delivery,Cancelled,
+ORD00713,2025-10-01,CUST0236,Returning,Kochi,Electronics,Wireless Mouse,1,18.99,0.0,18.99,9.5,9.49,Cash on Delivery,Returned,8.0
+ORD00714,2025-06-05,CUST0155,New,Bengaluru,Sports,Fitness Tracker,1,89.99,10.0,80.99,55.0,25.99,UPI,Returned,7.0
+ORD00715,2025-04-08,CUST0247,Returning,Hyderabad,Electronics,Wireless Mouse,2,18.99,0.0,37.98,19.0,18.98,Cash on Delivery,Delivered,4.0
+ORD00716,2025-11-17,CUST0217,New,Bengaluru,Sports,Resistance Bands,1,14.99,10.0,13.49,5.5,7.99,Credit Card,Delivered,8.0
+ORD00717,2025-12-26,CUST0125,New,Kochi,Books,Productivity Journal,2,14.99,15.0,25.48,10.0,15.48,Cash on Delivery,Cancelled,
+ORD00718,2025-01-27,CUST0254,Returning,Kochi,Clothing,Cotton T-Shirt,1,19.99,15.0,16.99,8.0,8.99,Net Banking,Delivered,7.0
+ORD00719,2025-05-29,CUST0119,Returning,Kolkata,Electronics,Laptop Stand,1,34.99,5.0,33.24,18.0,15.24,UPI,Returned,8.0
+ORD00720,2025-08-05,CUST0243,New,Kochi,Sports,Gym Bottle,2,11.99,0.0,23.98,8.0,15.98,Debit Card,Returned,7.0
+ORD00721,2025-08-18,CUST0225,New,Hyderabad,Books,Data Analytics Basics,1,24.99,10.0,22.49,10.0,12.49,Net Banking,Delivered,6.0
+ORD00722,2025-12-17,CUST0151,Returning,Jaipur,Clothing,Jeans,3,49.99,10.0,134.97,78.0,56.97,Cash on Delivery,Delivered,3.0
+ORD00723,2025-12-11,CUST0107,New,Mumbai,Clothing,Backpack,3,44.99,15.0,114.72,69.0,45.72,Cash on Delivery,Cancelled,
+ORD00724,2025-03-08,CUST0156,New,Kolkata,Home & Kitchen,Coffee Maker,1,79.99,5.0,75.99,48.0,27.99,UPI,Delivered,8.0
+ORD00725,2025-01-10,CUST0017,Loyal,Chennai,Clothing,Running Shoes,1,74.99,0.0,74.99,42.0,32.99,Cash on Delivery,Cancelled,
+ORD00726,2025-02-28,CUST0182,Loyal,Kolkata,Sports,Resistance Bands,1,14.99,0.0,14.99,5.5,9.49,Debit Card,Delivered,6.0
+ORD00727,2025-03-19,CUST0057,Loyal,Kochi,Sports,Fitness Tracker,2,89.99,10.0,161.98,110.0,51.98,Net Banking,Delivered,8.0
+ORD00728,2025-02-22,CUST0186,New,Delhi,Sports,Yoga Mat,2,27.99,0.0,55.98,24.0,31.98,Cash on Delivery,Delivered,4.0
+ORD00729,2025-09-17,CUST0104,Returning,Jaipur,Books,Data Analytics Basics,1,24.99,5.0,23.74,10.0,13.74,UPI,Delivered,2.0
+ORD00730,2025-05-06,CUST0213,Returning,Hyderabad,Books,Python for Beginners,1,27.99,0.0,27.99,11.0,16.99,Credit Card,Delivered,6.0
+ORD00731,2025-09-29,CUST0186,Loyal,Ahmedabad,Books,Business Strategy Guide,1,29.99,5.0,28.49,13.0,15.49,Credit Card,Delivered,8.0
+ORD00732,2025-01-06,CUST0032,Returning,Pune,Sports,Yoga Mat,1,27.99,0.0,27.99,12.0,15.99,Credit Card,Delivered,7.0
+ORD00733,2025-10-22,CUST0161,Loyal,Pune,Electronics,Webcam,5,59.99,5.0,284.95,175.0,109.95,Debit Card,Returned,5.0
+ORD00734,2025-09-28,CUST0177,Loyal,Jaipur,Sports,Resistance Bands,2,14.99,5.0,28.48,11.0,17.48,Credit Card,Delivered,8.0
+ORD00735,2025-06-04,CUST0146,New,Kolkata,Electronics,Wireless Mouse,2,18.99,5.0,36.08,19.0,17.08,Net Banking,Returned,3.0
+ORD00736,2025-06-09,CUST0124,Loyal,Delhi,Sports,Gym Bottle,3,11.99,0.0,35.97,12.0,23.97,Cash on Delivery,Delivered,5.0
+ORD00737,2025-09-16,CUST0182,New,Mumbai,Electronics,Wireless Mouse,3,18.99,0.0,56.97,28.5,28.47,Cash on Delivery,Cancelled,
+ORD00738,2025-06-02,CUST0180,New,Kochi,Sports,Yoga Mat,2,27.99,20.0,44.78,24.0,20.78,Credit Card,Returned,4.0
+ORD00739,2025-07-13,CUST0233,New,Jaipur,Sports,Resistance Bands,1,14.99,5.0,14.24,5.5,8.74,Cash on Delivery,Delivered,6.0
+ORD00740,2025-02-11,CUST0040,Returning,Kolkata,Electronics,Wireless Mouse,2,18.99,0.0,37.98,19.0,18.98,Cash on Delivery,Delivered,8.0
+ORD00741,2025-10-29,CUST0256,Returning,Ahmedabad,Sports,Fitness Tracker,3,89.99,15.0,229.47,165.0,64.47,Cash on Delivery,Cancelled,
+ORD00742,2025-08-02,CUST0061,Returning,Ahmedabad,Home & Kitchen,Coffee Maker,2,79.99,5.0,151.98,96.0,55.98,Cash on Delivery,Delivered,3.0
+ORD00743,2025-01-17,CUST0210,New,Chennai,Home & Kitchen,Blender,1,64.99,20.0,51.99,39.0,12.99,Net Banking,Cancelled,
+ORD00744,2025-05-29,CUST0151,Returning,Bengaluru,Electronics,Webcam,1,59.99,5.0,56.99,35.0,21.99,Credit Card,Delivered,5.0
+ORD00745,2025-10-29,CUST0094,Loyal,Ahmedabad,Books,Data Analytics Basics,4,24.99,0.0,99.96,40.0,59.96,UPI,Delivered,4.0
+ORD00746,2025-03-04,CUST0232,Loyal,Jaipur,Sports,Gym Bottle,1,11.99,0.0,11.99,4.0,7.99,Cash on Delivery,Delivered,5.0
+ORD00747,2025-11-07,CUST0077,Loyal,Chennai,Home & Kitchen,Coffee Maker,2,79.99,5.0,151.98,96.0,55.98,UPI,Delivered,8.0
+ORD00748,2025-11-16,CUST0227,Returning,Mumbai,Sports,Skipping Rope,1,9.99,15.0,8.49,3.5,4.99,Credit Card,Delivered,1.0
+ORD00749,2025-12-29,CUST0044,New,Kochi,Electronics,Webcam,2,59.99,10.0,107.98,70.0,37.98,Net Banking,Delivered,2.0
+ORD00750,2025-10-23,CUST0010,New,Kolkata,Electronics,Webcam,2,59.99,10.0,107.98,70.0,37.98,Credit Card,Cancelled,
+ORD00751,2025-01-10,CUST0228,New,Kolkata,Clothing,Hoodie,1,39.99,10.0,35.99,19.0,16.99,Net Banking,Cancelled,
+ORD00752,2025-06-14,CUST0224,New,Pune,Books,Marketing Essentials,1,22.99,15.0,19.54,9.0,10.54,Net Banking,Delivered,6.0
+ORD00753,2025-06-12,CUST0087,New,Bengaluru,Books,Python for Beginners,1,27.99,20.0,22.39,11.0,11.39,Debit Card,Cancelled,
+ORD00754,2025-02-15,CUST0093,New,Pune,Home & Kitchen,Storage Box,4,12.99,10.0,46.76,22.0,24.76,Debit Card,Delivered,6.0
+ORD00755,2025-07-19,CUST0062,New,Hyderabad,Electronics,USB-C Charger,1,22.5,15.0,19.12,11.25,7.87,Net Banking,Delivered,7.0
+ORD00756,2025-10-28,CUST0032,New,Kolkata,Home & Kitchen,Desk Lamp,2,29.99,5.0,56.98,28.0,28.98,Cash on Delivery,Delivered,5.0
+ORD00757,2025-02-03,CUST0052,New,Kolkata,Books,Data Analytics Basics,1,24.99,0.0,24.99,10.0,14.99,Credit Card,Delivered,5.0
+ORD00758,2025-06-05,CUST0105,Loyal,Bengaluru,Sports,Skipping Rope,2,9.99,15.0,16.98,7.0,9.98,Debit Card,Cancelled,
+ORD00759,2025-10-04,CUST0232,New,Ahmedabad,Home & Kitchen,Coffee Maker,2,79.99,5.0,151.98,96.0,55.98,Net Banking,Cancelled,
+ORD00760,2025-05-29,CUST0195,Loyal,Hyderabad,Home & Kitchen,Water Bottle,1,16.99,15.0,14.44,7.0,7.44,Net Banking,Delivered,5.0
+ORD00761,2025-09-19,CUST0046,Returning,Mumbai,Clothing,Cotton T-Shirt,1,19.99,5.0,18.99,8.0,10.99,Credit Card,Delivered,5.0
+ORD00762,2025-10-12,CUST0134,Loyal,Ahmedabad,Clothing,Backpack,1,44.99,5.0,42.74,23.0,19.74,Debit Card,Delivered,6.0
+ORD00763,2025-05-06,CUST0069,Returning,Pune,Clothing,Running Shoes,1,74.99,20.0,59.99,42.0,17.99,Net Banking,Delivered,1.0
+ORD00764,2025-09-01,CUST0202,Returning,Mumbai,Electronics,Wireless Mouse,2,18.99,5.0,36.08,19.0,17.08,Net Banking,Returned,8.0
+ORD00765,2025-01-16,CUST0184,Returning,Pune,Books,Data Analytics Basics,1,24.99,15.0,21.24,10.0,11.24,UPI,Cancelled,
+ORD00766,2025-08-25,CUST0184,New,Kochi,Clothing,Hoodie,2,39.99,0.0,79.98,38.0,41.98,Debit Card,Delivered,5.0
+ORD00767,2025-04-24,CUST0004,New,Jaipur,Home & Kitchen,Desk Lamp,5,29.99,0.0,149.95,70.0,79.95,UPI,Delivered,4.0
+ORD00768,2025-05-23,CUST0034,Returning,Mumbai,Sports,Fitness Tracker,2,89.99,10.0,161.98,110.0,51.98,Credit Card,Returned,3.0
+ORD00769,2025-05-13,CUST0012,Loyal,Kolkata,Sports,Resistance Bands,4,14.99,10.0,53.96,22.0,31.96,Net Banking,Delivered,4.0
+ORD00770,2025-05-10,CUST0166,Returning,Jaipur,Sports,Skipping Rope,1,9.99,5.0,9.49,3.5,5.99,Debit Card,Returned,1.0
+ORD00771,2025-03-04,CUST0025,New,Jaipur,Sports,Skipping Rope,2,9.99,5.0,18.98,7.0,11.98,Net Banking,Delivered,4.0
+ORD00772,2025-08-18,CUST0013,Loyal,Hyderabad,Clothing,Cotton T-Shirt,1,19.99,0.0,19.99,8.0,11.99,Cash on Delivery,Cancelled,
+ORD00773,2025-02-08,CUST0015,Returning,Pune,Home & Kitchen,Coffee Maker,1,79.99,0.0,79.99,48.0,31.99,Net Banking,Returned,2.0
+ORD00774,2025-11-17,CUST0171,Returning,Hyderabad,Clothing,Running Shoes,1,74.99,5.0,71.24,42.0,29.24,UPI,Delivered,1.0
+ORD00775,2025-11-04,CUST0064,New,Pune,Sports,Skipping Rope,3,9.99,10.0,26.97,10.5,16.47,UPI,Cancelled,
+ORD00776,2025-07-13,CUST0155,Returning,Jaipur,Clothing,Cotton T-Shirt,3,19.99,0.0,59.97,24.0,35.97,UPI,Delivered,1.0
+ORD00777,2025-02-22,CUST0211,New,Kochi,Electronics,Webcam,1,59.99,15.0,50.99,35.0,15.99,Net Banking,Delivered,2.0
+ORD00778,2025-01-06,CUST0052,New,Pune,Books,Productivity Journal,2,14.99,5.0,28.48,10.0,18.48,Cash on Delivery,Cancelled,
+ORD00779,2025-09-22,CUST0035,Returning,Hyderabad,Clothing,Jeans,1,49.99,0.0,49.99,26.0,23.99,Net Banking,Cancelled,
+ORD00780,2025-03-06,CUST0228,New,Bengaluru,Sports,Gym Bottle,1,11.99,5.0,11.39,4.0,7.39,UPI,Cancelled,
+ORD00781,2025-01-31,CUST0160,Returning,Kolkata,Home & Kitchen,Storage Box,2,12.99,5.0,24.68,11.0,13.68,Credit Card,Returned,6.0
+ORD00782,2025-03-17,CUST0030,New,Kolkata,Books,Python for Beginners,2,27.99,0.0,55.98,22.0,33.98,UPI,Delivered,3.0
+ORD00783,2025-08-05,CUST0175,New,Ahmedabad,Clothing,Hoodie,5,39.99,10.0,179.96,95.0,84.96,Cash on Delivery,Delivered,2.0
+ORD00784,2025-11-04,CUST0169,New,Ahmedabad,Clothing,Jeans,2,49.99,0.0,99.98,52.0,47.98,UPI,Delivered,7.0
+ORD00785,2025-09-11,CUST0123,Returning,Chennai,Home & Kitchen,Water Bottle,2,16.99,10.0,30.58,14.0,16.58,Cash on Delivery,Delivered,4.0
+ORD00786,2025-04-16,CUST0184,New,Mumbai,Books,Business Strategy Guide,3,29.99,0.0,89.97,39.0,50.97,Credit Card,Delivered,2.0
+ORD00787,2025-05-29,CUST0016,New,Delhi,Books,Business Strategy Guide,2,29.99,15.0,50.98,26.0,24.98,Credit Card,Delivered,1.0
+ORD00788,2025-04-23,CUST0012,New,Delhi,Clothing,Hoodie,1,39.99,10.0,35.99,19.0,16.99,UPI,Delivered,4.0
+ORD00789,2025-01-11,CUST0157,Returning,Chennai,Home & Kitchen,Desk Lamp,2,29.99,15.0,50.98,28.0,22.98,Debit Card,Delivered,4.0
+ORD00790,2025-12-05,CUST0061,New,Bengaluru,Home & Kitchen,Blender,5,64.99,20.0,259.96,195.0,64.96,Credit Card,Delivered,2.0
+ORD00791,2025-04-09,CUST0024,Loyal,Kochi,Sports,Skipping Rope,2,9.99,0.0,19.98,7.0,12.98,Credit Card,Delivered,4.0
+ORD00792,2025-10-02,CUST0251,New,Mumbai,Clothing,Hoodie,1,39.99,0.0,39.99,19.0,20.99,Cash on Delivery,Delivered,3.0
+ORD00793,2025-12-06,CUST0256,Returning,Bengaluru,Sports,Yoga Mat,1,27.99,5.0,26.59,12.0,14.59,Debit Card,Returned,6.0
+ORD00794,2025-12-31,CUST0138,Returning,Kochi,Clothing,Jeans,2,49.99,10.0,89.98,52.0,37.98,UPI,Delivered,8.0
+ORD00795,2025-04-17,CUST0218,Loyal,Kochi,Home & Kitchen,Coffee Maker,2,79.99,0.0,159.98,96.0,63.98,Credit Card,Delivered,5.0
+ORD00796,2025-07-11,CUST0181,New,Pune,Clothing,Jeans,1,49.99,10.0,44.99,26.0,18.99,Cash on Delivery,Delivered,8.0
+ORD00797,2025-09-20,CUST0255,New,Jaipur,Sports,Gym Bottle,2,11.99,5.0,22.78,8.0,14.78,UPI,Delivered,6.0
+ORD00798,2025-04-02,CUST0257,Returning,Mumbai,Books,Business Strategy Guide,1,29.99,0.0,29.99,13.0,16.99,Debit Card,Delivered,5.0
+ORD00799,2025-04-27,CUST0101,Returning,Delhi,Electronics,Wireless Mouse,1,18.99,0.0,18.99,9.5,9.49,Debit Card,Delivered,6.0
+ORD00800,2025-12-16,CUST0005,Loyal,Delhi,Clothing,Hoodie,2,39.99,20.0,63.98,38.0,25.98,Debit Card,Returned,5.0
+ORD00801,2025-07-26,CUST0204,New,Hyderabad,Books,Marketing Essentials,3,22.99,0.0,68.97,27.0,41.97,Cash on Delivery,Returned,3.0
+ORD00802,2025-04-30,CUST0175,Loyal,Chennai,Sports,Fitness Tracker,3,89.99,10.0,242.97,165.0,77.97,Credit Card,Returned,8.0
+ORD00803,2025-08-08,CUST0072,Returning,Bengaluru,Books,Business Strategy Guide,2,29.99,15.0,50.98,26.0,24.98,Debit Card,Delivered,6.0
+ORD00804,2025-01-05,CUST0154,New,Pune,Books,Python for Beginners,1,27.99,5.0,26.59,11.0,15.59,Net Banking,Returned,7.0
+ORD00805,2025-01-17,CUST0201,Loyal,Hyderabad,Home & Kitchen,Coffee Maker,5,79.99,20.0,319.96,240.0,79.96,Cash on Delivery,Cancelled,
+ORD00806,2025-02-02,CUST0232,Returning,Delhi,Sports,Skipping Rope,1,9.99,0.0,9.99,3.5,6.49,UPI,Cancelled,
+ORD00807,2025-03-29,CUST0251,New,Hyderabad,Electronics,Webcam,1,59.99,15.0,50.99,35.0,15.99,UPI,Cancelled,
+ORD00808,2025-07-17,CUST0030,Returning,Pune,Clothing,Hoodie,1,39.99,10.0,35.99,19.0,16.99,Credit Card,Delivered,8.0
+ORD00809,2025-06-17,CUST0215,Returning,Mumbai,Books,Productivity Journal,1,14.99,0.0,14.99,5.0,9.99,Cash on Delivery,Cancelled,
+ORD00810,2025-04-16,CUST0082,Returning,Delhi,Home & Kitchen,Coffee Maker,1,79.99,15.0,67.99,48.0,19.99,Net Banking,Returned,8.0
+ORD00811,2025-04-14,CUST0033,Loyal,Kochi,Sports,Skipping Rope,1,9.99,0.0,9.99,3.5,6.49,Credit Card,Delivered,8.0
+ORD00812,2025-09-27,CUST0021,Returning,Delhi,Clothing,Jeans,3,49.99,5.0,142.47,78.0,64.47,Cash on Delivery,Cancelled,
+ORD00813,2025-06-27,CUST0128,New,Kochi,Clothing,Backpack,2,44.99,15.0,76.48,46.0,30.48,Cash on Delivery,Delivered,7.0
+ORD00814,2025-08-23,CUST0123,Loyal,Bengaluru,Books,Business Strategy Guide,2,29.99,0.0,59.98,26.0,33.98,Debit Card,Returned,1.0
+ORD00815,2025-11-18,CUST0253,Returning,Kolkata,Sports,Gym Bottle,2,11.99,0.0,23.98,8.0,15.98,UPI,Returned,4.0
+ORD00816,2025-07-08,CUST0085,New,Kolkata,Electronics,Wireless Mouse,2,18.99,10.0,34.18,19.0,15.18,UPI,Delivered,8.0
+ORD00817,2025-08-25,CUST0176,Returning,Hyderabad,Electronics,Wireless Mouse,2,18.99,10.0,34.18,19.0,15.18,Cash on Delivery,Delivered,7.0
+ORD00818,2025-01-20,CUST0249,Returning,Mumbai,Electronics,USB-C Charger,1,22.5,15.0,19.12,11.25,7.87,Net Banking,Delivered,8.0
+ORD00819,2025-12-03,CUST0010,Returning,Bengaluru,Home & Kitchen,Desk Lamp,1,29.99,15.0,25.49,14.0,11.49,Debit Card,Delivered,3.0
+ORD00820,2025-03-05,CUST0079,Returning,Bengaluru,Sports,Skipping Rope,1,9.99,10.0,8.99,3.5,5.49,Credit Card,Delivered,5.0
+ORD00821,2025-01-18,CUST0200,Returning,Ahmedabad,Sports,Resistance Bands,2,14.99,0.0,29.98,11.0,18.98,UPI,Returned,2.0
+ORD00822,2025-11-03,CUST0123,New,Pune,Electronics,Wireless Mouse,3,18.99,10.0,51.27,28.5,22.77,Cash on Delivery,Delivered,6.0
+ORD00823,2025-01-15,CUST0050,Loyal,Bengaluru,Electronics,USB-C Charger,3,22.5,10.0,60.75,33.75,27.0,Credit Card,Delivered,4.0
+ORD00824,2025-01-23,CUST0098,Returning,Kolkata,Books,Marketing Essentials,1,22.99,0.0,22.99,9.0,13.99,Cash on Delivery,Cancelled,
+ORD00825,2025-08-08,CUST0206,Returning,Pune,Electronics,Bluetooth Headphones,1,49.99,5.0,47.49,28.0,19.49,Cash on Delivery,Delivered,1.0
+ORD00826,2025-04-19,CUST0023,New,Hyderabad,Books,Business Strategy Guide,1,29.99,15.0,25.49,13.0,12.49,Cash on Delivery,Returned,6.0
+ORD00827,2025-06-04,CUST0088,New,Mumbai,Sports,Skipping Rope,5,9.99,0.0,49.95,17.5,32.45,Net Banking,Cancelled,
+ORD00828,2025-06-16,CUST0247,New,Pune,Books,Business Strategy Guide,1,29.99,10.0,26.99,13.0,13.99,Net Banking,Returned,6.0
+ORD00829,2025-10-27,CUST0007,New,Kochi,Books,Productivity Journal,2,14.99,10.0,26.98,10.0,16.98,UPI,Cancelled,
+ORD00830,2025-06-08,CUST0192,Returning,Hyderabad,Home & Kitchen,Desk Lamp,3,29.99,10.0,80.97,42.0,38.97,Credit Card,Delivered,3.0
+ORD00831,2025-07-12,CUST0069,New,Pune,Home & Kitchen,Water Bottle,1,16.99,10.0,15.29,7.0,8.29,Net Banking,Delivered,6.0
+ORD00832,2025-08-01,CUST0106,Returning,Hyderabad,Clothing,Cotton T-Shirt,1,19.99,10.0,17.99,8.0,9.99,Credit Card,Delivered,4.0
+ORD00833,2025-11-08,CUST0252,New,Hyderabad,Books,Marketing Essentials,1,22.99,5.0,21.84,9.0,12.84,UPI,Delivered,2.0
+ORD00834,2025-11-21,CUST0105,New,Mumbai,Home & Kitchen,Coffee Maker,1,79.99,0.0,79.99,48.0,31.99,Cash on Delivery,Cancelled,
+ORD00835,2025-08-28,CUST0156,New,Ahmedabad,Clothing,Hoodie,3,39.99,0.0,119.97,57.0,62.97,Credit Card,Delivered,4.0
+ORD00836,2025-05-20,CUST0242,Returning,Kolkata,Books,Data Analytics Basics,4,24.99,5.0,94.96,40.0,54.96,Net Banking,Delivered,3.0
+ORD00837,2025-08-10,CUST0079,Returning,Bengaluru,Home & Kitchen,Desk Lamp,1,29.99,5.0,28.49,14.0,14.49,Debit Card,Delivered,5.0
+ORD00838,2025-07-14,CUST0247,New,Bengaluru,Books,Python for Beginners,2,27.99,5.0,53.18,22.0,31.18,Cash on Delivery,Cancelled,
+ORD00839,2025-04-11,CUST0252,Returning,Jaipur,Home & Kitchen,Coffee Maker,1,79.99,15.0,67.99,48.0,19.99,Cash on Delivery,Returned,6.0
+ORD00840,2025-07-11,CUST0020,Loyal,Mumbai,Books,Productivity Journal,1,14.99,20.0,11.99,5.0,6.99,Cash on Delivery,Delivered,7.0
+ORD00841,2025-10-17,CUST0251,Returning,Chennai,Home & Kitchen,Coffee Maker,3,79.99,20.0,191.98,144.0,47.98,UPI,Returned,6.0
+ORD00842,2025-11-30,CUST0015,Returning,Bengaluru,Books,Productivity Journal,3,14.99,0.0,44.97,15.0,29.97,Debit Card,Delivered,6.0
+ORD00843,2025-11-06,CUST0007,New,Mumbai,Books,Business Strategy Guide,1,29.99,10.0,26.99,13.0,13.99,Cash on Delivery,Returned,3.0
+ORD00844,2025-07-23,CUST0219,New,Delhi,Sports,Yoga Mat,2,27.99,0.0,55.98,24.0,31.98,Net Banking,Delivered,3.0
+ORD00845,2025-09-30,CUST0056,Returning,Chennai,Books,Marketing Essentials,1,22.99,5.0,21.84,9.0,12.84,Credit Card,Returned,2.0
+ORD00846,2025-05-18,CUST0001,New,Jaipur,Home & Kitchen,Desk Lamp,2,29.99,0.0,59.98,28.0,31.98,Net Banking,Delivered,8.0
+ORD00847,2025-08-02,CUST0102,Returning,Kolkata,Clothing,Backpack,1,44.99,5.0,42.74,23.0,19.74,UPI,Returned,3.0
+ORD00848,2025-08-19,CUST0133,Loyal,Jaipur,Sports,Resistance Bands,1,14.99,0.0,14.99,5.5,9.49,Cash on Delivery,Delivered,4.0
+ORD00849,2025-11-17,CUST0194,New,Mumbai,Sports,Yoga Mat,3,27.99,0.0,83.97,36.0,47.97,Debit Card,Delivered,2.0
+ORD00850,2025-01-16,CUST0032,New,Pune,Sports,Resistance Bands,2,14.99,10.0,26.98,11.0,15.98,Net Banking,Delivered,1.0
+ORD00851,2025-01-22,CUST0137,Loyal,Ahmedabad,Electronics,Bluetooth Headphones,2,49.99,0.0,99.98,56.0,43.98,Debit Card,Cancelled,
+ORD00852,2025-11-06,CUST0185,Returning,Jaipur,Books,Python for Beginners,1,27.99,15.0,23.79,11.0,12.79,Net Banking,Delivered,4.0
+ORD00853,2025-01-30,CUST0072,New,Mumbai,Clothing,Running Shoes,3,74.99,0.0,224.97,126.0,98.97,Net Banking,Returned,7.0
+ORD00854,2025-05-24,CUST0097,New,Chennai,Home & Kitchen,Storage Box,2,12.99,10.0,23.38,11.0,12.38,UPI,Delivered,7.0
+ORD00855,2025-11-21,CUST0120,Returning,Jaipur,Clothing,Cotton T-Shirt,5,19.99,10.0,89.95,40.0,49.95,Net Banking,Returned,8.0
+ORD00856,2025-02-11,CUST0198,New,Hyderabad,Clothing,Backpack,4,44.99,15.0,152.97,92.0,60.97,Credit Card,Delivered,2.0
+ORD00857,2025-09-24,CUST0240,New,Ahmedabad,Sports,Fitness Tracker,1,89.99,5.0,85.49,55.0,30.49,UPI,Delivered,5.0
+ORD00858,2025-09-04,CUST0055,Returning,Pune,Sports,Resistance Bands,1,14.99,0.0,14.99,5.5,9.49,Credit Card,Returned,2.0
+ORD00859,2025-06-17,CUST0070,Loyal,Ahmedabad,Books,Python for Beginners,1,27.99,0.0,27.99,11.0,16.99,UPI,Delivered,2.0
+ORD00860,2025-12-21,CUST0034,Returning,Jaipur,Clothing,Hoodie,4,39.99,10.0,143.96,76.0,67.96,Cash on Delivery,Cancelled,
+ORD00861,2025-12-01,CUST0045,New,Chennai,Sports,Skipping Rope,3,9.99,0.0,29.97,10.5,19.47,Net Banking,Delivered,5.0
+ORD00862,2025-04-07,CUST0160,New,Kolkata,Electronics,Webcam,1,59.99,15.0,50.99,35.0,15.99,Credit Card,Delivered,1.0
+ORD00863,2025-07-18,CUST0055,Returning,Kolkata,Books,Python for Beginners,3,27.99,10.0,75.57,33.0,42.57,Cash on Delivery,Delivered,4.0
+ORD00864,2025-06-11,CUST0146,New,Pune,Home & Kitchen,Storage Box,3,12.99,5.0,37.02,16.5,20.52,Net Banking,Delivered,3.0
+ORD00865,2025-06-13,CUST0111,Returning,Jaipur,Clothing,Jeans,5,49.99,0.0,249.95,130.0,119.95,UPI,Returned,8.0
+ORD00866,2025-06-20,CUST0092,Loyal,Jaipur,Home & Kitchen,Coffee Maker,3,79.99,15.0,203.97,144.0,59.97,Debit Card,Delivered,1.0
+ORD00867,2025-12-04,CUST0179,Loyal,Jaipur,Home & Kitchen,Water Bottle,2,16.99,0.0,33.98,14.0,19.98,UPI,Returned,8.0
+ORD00868,2025-09-28,CUST0202,New,Chennai,Clothing,Running Shoes,2,74.99,0.0,149.98,84.0,65.98,Net Banking,Cancelled,
+ORD00869,2025-01-28,CUST0150,Loyal,Hyderabad,Clothing,Backpack,2,44.99,10.0,80.98,46.0,34.98,Credit Card,Delivered,8.0
+ORD00870,2025-04-11,CUST0193,Loyal,Jaipur,Electronics,USB-C Charger,3,22.5,10.0,60.75,33.75,27.0,Credit Card,Returned,3.0
+ORD00871,2025-01-29,CUST0174,Returning,Bengaluru,Electronics,USB-C Charger,5,22.5,0.0,112.5,56.25,56.25,Cash on Delivery,Delivered,2.0
+ORD00872,2025-05-06,CUST0193,Loyal,Mumbai,Electronics,Wireless Mouse,1,18.99,5.0,18.04,9.5,8.54,Cash on Delivery,Returned,3.0
+ORD00873,2025-11-29,CUST0060,New,Ahmedabad,Books,Python for Beginners,2,27.99,5.0,53.18,22.0,31.18,Net Banking,Delivered,2.0
+ORD00874,2025-04-26,CUST0093,Returning,Jaipur,Electronics,Webcam,2,59.99,10.0,107.98,70.0,37.98,Debit Card,Delivered,2.0
+ORD00875,2025-10-20,CUST0095,Returning,Pune,Home & Kitchen,Water Bottle,1,16.99,10.0,15.29,7.0,8.29,Cash on Delivery,Cancelled,
+ORD00876,2025-10-12,CUST0064,Loyal,Hyderabad,Sports,Fitness Tracker,2,89.99,5.0,170.98,110.0,60.98,UPI,Cancelled,
+ORD00877,2025-04-03,CUST0021,New,Hyderabad,Sports,Resistance Bands,1,14.99,5.0,14.24,5.5,8.74,Credit Card,Delivered,2.0
+ORD00878,2025-02-14,CUST0187,Loyal,Bengaluru,Sports,Gym Bottle,3,11.99,0.0,35.97,12.0,23.97,Cash on Delivery,Delivered,5.0
+ORD00879,2025-12-03,CUST0151,Returning,Ahmedabad,Electronics,Bluetooth Headphones,1,49.99,15.0,42.49,28.0,14.49,Credit Card,Cancelled,
+ORD00880,2025-10-23,CUST0051,Returning,Pune,Books,Python for Beginners,2,27.99,20.0,44.78,22.0,22.78,Credit Card,Delivered,4.0
+ORD00881,2025-01-19,CUST0184,New,Kochi,Home & Kitchen,Coffee Maker,1,79.99,15.0,67.99,48.0,19.99,Cash on Delivery,Delivered,4.0
+ORD00882,2025-02-08,CUST0234,New,Delhi,Sports,Gym Bottle,1,11.99,10.0,10.79,4.0,6.79,Cash on Delivery,Delivered,7.0
+ORD00883,2025-12-22,CUST0191,Returning,Kolkata,Home & Kitchen,Blender,1,64.99,10.0,58.49,39.0,19.49,Net Banking,Delivered,4.0
+ORD00884,2025-03-25,CUST0127,New,Mumbai,Books,Business Strategy Guide,1,29.99,10.0,26.99,13.0,13.99,Net Banking,Delivered,1.0
+ORD00885,2025-02-26,CUST0140,New,Hyderabad,Sports,Skipping Rope,1,9.99,10.0,8.99,3.5,5.49,Debit Card,Delivered,6.0
+ORD00886,2025-01-06,CUST0090,Returning,Delhi,Electronics,Laptop Stand,5,34.99,0.0,174.95,90.0,84.95,Net Banking,Delivered,2.0
+ORD00887,2025-09-08,CUST0051,Loyal,Bengaluru,Electronics,Webcam,1,59.99,10.0,53.99,35.0,18.99,Debit Card,Delivered,5.0
+ORD00888,2025-07-19,CUST0207,Returning,Bengaluru,Home & Kitchen,Storage Box,3,12.99,10.0,35.07,16.5,18.57,Debit Card,Cancelled,
+ORD00889,2025-01-05,CUST0137,New,Chennai,Sports,Resistance Bands,2,14.99,0.0,29.98,11.0,18.98,Credit Card,Cancelled,
+ORD00890,2025-12-14,CUST0258,New,Jaipur,Sports,Skipping Rope,2,9.99,0.0,19.98,7.0,12.98,Net Banking,Delivered,8.0
+ORD00891,2025-04-28,CUST0041,New,Hyderabad,Clothing,Cotton T-Shirt,4,19.99,5.0,75.96,32.0,43.96,UPI,Delivered,2.0
+ORD00892,2025-03-26,CUST0218,Returning,Bengaluru,Sports,Yoga Mat,1,27.99,0.0,27.99,12.0,15.99,Cash on Delivery,Delivered,1.0
+ORD00893,2025-09-12,CUST0098,Loyal,Pune,Sports,Fitness Tracker,2,89.99,5.0,170.98,110.0,60.98,Cash on Delivery,Cancelled,
+ORD00894,2025-12-26,CUST0022,Returning,Bengaluru,Sports,Gym Bottle,1,11.99,10.0,10.79,4.0,6.79,Net Banking,Cancelled,
+ORD00895,2025-04-26,CUST0217,Returning,Bengaluru,Home & Kitchen,Water Bottle,1,16.99,0.0,16.99,7.0,9.99,Debit Card,Delivered,1.0
+ORD00896,2025-02-27,CUST0154,Returning,Delhi,Clothing,Hoodie,3,39.99,15.0,101.97,57.0,44.97,Credit Card,Delivered,5.0
+ORD00897,2025-01-02,CUST0238,Loyal,Ahmedabad,Sports,Skipping Rope,1,9.99,0.0,9.99,3.5,6.49,UPI,Returned,1.0
+ORD00898,2025-07-02,CUST0180,Loyal,Bengaluru,Electronics,Webcam,2,59.99,0.0,119.98,70.0,49.98,Cash on Delivery,Delivered,1.0
+ORD00899,2025-07-01,CUST0079,Returning,Ahmedabad,Electronics,Wireless Mouse,2,18.99,0.0,37.98,19.0,18.98,UPI,Cancelled,
+ORD00900,2025-03-21,CUST0094,Returning,Delhi,Clothing,Hoodie,2,39.99,5.0,75.98,38.0,37.98,UPI,Delivered,7.0
+ORD00901,2025-08-13,CUST0102,New,Delhi,Books,Business Strategy Guide,1,29.99,10.0,26.99,13.0,13.99,UPI,Delivered,6.0
+ORD00902,2025-03-10,CUST0246,Loyal,Delhi,Books,Productivity Journal,3,14.99,15.0,38.22,15.0,23.22,UPI,Delivered,4.0
+ORD00903,2025-08-04,CUST0205,Returning,Jaipur,Books,Marketing Essentials,2,22.99,10.0,41.38,18.0,23.38,Credit Card,Delivered,6.0
+ORD00904,2025-02-26,CUST0027,Returning,Chennai,Electronics,Wireless Mouse,1,18.99,0.0,18.99,9.5,9.49,Cash on Delivery,Delivered,4.0
+ORD00905,2025-11-02,CUST0127,Returning,Kolkata,Electronics,Laptop Stand,2,34.99,0.0,69.98,36.0,33.98,Credit Card,Delivered,7.0
+ORD00906,2025-05-08,CUST0102,Returning,Mumbai,Clothing,Cotton T-Shirt,3,19.99,20.0,47.98,24.0,23.98,Net Banking,Delivered,7.0
+ORD00907,2025-11-09,CUST0118,New,Jaipur,Home & Kitchen,Coffee Maker,5,79.99,10.0,359.95,240.0,119.95,UPI,Returned,3.0
+ORD00908,2025-05-21,CUST0195,Returning,Delhi,Home & Kitchen,Coffee Maker,2,79.99,10.0,143.98,96.0,47.98,Credit Card,Delivered,1.0
+ORD00909,2025-04-24,CUST0156,New,Chennai,Clothing,Backpack,2,44.99,5.0,85.48,46.0,39.48,Debit Card,Returned,1.0
+ORD00910,2025-06-29,CUST0027,Returning,Chennai,Books,Business Strategy Guide,1,29.99,0.0,29.99,13.0,16.99,Credit Card,Delivered,1.0
+ORD00911,2025-05-27,CUST0252,Returning,Delhi,Books,Python for Beginners,4,27.99,0.0,111.96,44.0,67.96,UPI,Delivered,5.0
+ORD00912,2025-02-19,CUST0191,New,Delhi,Electronics,Webcam,3,59.99,0.0,179.97,105.0,74.97,Credit Card,Delivered,6.0
+ORD00913,2025-10-27,CUST0022,Returning,Hyderabad,Books,Data Analytics Basics,4,24.99,0.0,99.96,40.0,59.96,Credit Card,Returned,2.0
+ORD00914,2025-12-27,CUST0243,Loyal,Hyderabad,Books,Data Analytics Basics,1,24.99,5.0,23.74,10.0,13.74,Net Banking,Delivered,5.0
+ORD00915,2025-03-20,CUST0188,Returning,Mumbai,Electronics,Bluetooth Headphones,1,49.99,10.0,44.99,28.0,16.99,Cash on Delivery,Delivered,6.0
+ORD00916,2025-02-04,CUST0141,Returning,Bengaluru,Books,Productivity Journal,2,14.99,20.0,23.98,10.0,13.98,Debit Card,Delivered,3.0
+ORD00917,2025-01-24,CUST0254,Returning,Kolkata,Sports,Yoga Mat,3,27.99,10.0,75.57,36.0,39.57,UPI,Returned,7.0
+ORD00918,2025-03-26,CUST0106,New,Bengaluru,Books,Marketing Essentials,1,22.99,10.0,20.69,9.0,11.69,Net Banking,Delivered,5.0
+ORD00919,2025-04-22,CUST0156,Loyal,Delhi,Sports,Yoga Mat,3,27.99,10.0,75.57,36.0,39.57,Debit Card,Delivered,5.0
+ORD00920,2025-10-10,CUST0076,Loyal,Delhi,Electronics,Bluetooth Headphones,1,49.99,5.0,47.49,28.0,19.49,Credit Card,Delivered,1.0
+ORD00921,2025-05-19,CUST0178,Returning,Chennai,Electronics,Bluetooth Headphones,5,49.99,0.0,249.95,140.0,109.95,Debit Card,Delivered,1.0
+ORD00922,2025-02-12,CUST0151,New,Pune,Sports,Gym Bottle,3,11.99,5.0,34.17,12.0,22.17,UPI,Cancelled,
+ORD00923,2025-07-02,CUST0055,Returning,Jaipur,Home & Kitchen,Storage Box,1,12.99,20.0,10.39,5.5,4.89,Debit Card,Cancelled,
+ORD00924,2025-11-17,CUST0105,Returning,Jaipur,Sports,Fitness Tracker,1,89.99,5.0,85.49,55.0,30.49,Credit Card,Delivered,5.0
+ORD00925,2025-08-17,CUST0093,Returning,Bengaluru,Home & Kitchen,Desk Lamp,1,29.99,15.0,25.49,14.0,11.49,Credit Card,Delivered,8.0
+ORD00926,2025-10-19,CUST0202,Returning,Hyderabad,Books,Business Strategy Guide,2,29.99,0.0,59.98,26.0,33.98,UPI,Delivered,3.0
+ORD00927,2025-03-15,CUST0071,Returning,Pune,Electronics,Laptop Stand,1,34.99,15.0,29.74,18.0,11.74,Net Banking,Delivered,2.0
+ORD00928,2025-02-21,CUST0068,New,Mumbai,Books,Productivity Journal,1,14.99,15.0,12.74,5.0,7.74,Debit Card,Returned,1.0
+ORD00929,2025-03-15,CUST0044,New,Ahmedabad,Sports,Yoga Mat,3,27.99,0.0,83.97,36.0,47.97,Net Banking,Delivered,6.0
+ORD00930,2025-08-16,CUST0064,New,Pune,Home & Kitchen,Storage Box,1,12.99,0.0,12.99,5.5,7.49,UPI,Delivered,5.0
+ORD00931,2025-10-06,CUST0115,New,Jaipur,Clothing,Cotton T-Shirt,2,19.99,15.0,33.98,16.0,17.98,Cash on Delivery,Delivered,1.0
+ORD00932,2025-03-17,CUST0252,New,Mumbai,Clothing,Running Shoes,1,74.99,15.0,63.74,42.0,21.74,Credit Card,Delivered,2.0
+ORD00933,2025-02-22,CUST0023,Returning,Bengaluru,Clothing,Running Shoes,1,74.99,0.0,74.99,42.0,32.99,Cash on Delivery,Delivered,2.0
+ORD00934,2025-09-29,CUST0147,New,Mumbai,Clothing,Jeans,1,49.99,5.0,47.49,26.0,21.49,Debit Card,Returned,5.0
+ORD00935,2025-09-13,CUST0077,Loyal,Bengaluru,Clothing,Running Shoes,3,74.99,10.0,202.47,126.0,76.47,Debit Card,Delivered,1.0
+ORD00936,2025-03-17,CUST0058,Returning,Delhi,Books,Productivity Journal,3,14.99,10.0,40.47,15.0,25.47,Credit Card,Delivered,2.0
+ORD00937,2025-02-16,CUST0218,Returning,Jaipur,Clothing,Hoodie,1,39.99,5.0,37.99,19.0,18.99,Net Banking,Delivered,8.0
+ORD00938,2025-11-22,CUST0215,Returning,Kolkata,Clothing,Hoodie,3,39.99,10.0,107.97,57.0,50.97,Net Banking,Delivered,7.0
+ORD00939,2025-09-10,CUST0216,Returning,Hyderabad,Sports,Fitness Tracker,3,89.99,5.0,256.47,165.0,91.47,UPI,Cancelled,
+ORD00940,2025-05-01,CUST0069,Loyal,Pune,Clothing,Cotton T-Shirt,1,19.99,15.0,16.99,8.0,8.99,Debit Card,Delivered,8.0
+ORD00941,2025-07-04,CUST0216,New,Hyderabad,Home & Kitchen,Storage Box,2,12.99,15.0,22.08,11.0,11.08,UPI,Cancelled,
+ORD00942,2025-03-12,CUST0028,Returning,Kochi,Electronics,Bluetooth Headphones,1,49.99,0.0,49.99,28.0,21.99,UPI,Delivered,6.0
+ORD00943,2025-09-02,CUST0040,New,Jaipur,Sports,Resistance Bands,1,14.99,5.0,14.24,5.5,8.74,Credit Card,Delivered,4.0
+ORD00944,2025-04-04,CUST0211,Returning,Ahmedabad,Books,Business Strategy Guide,3,29.99,10.0,80.97,39.0,41.97,UPI,Delivered,8.0
+ORD00945,2025-05-27,CUST0089,Returning,Pune,Electronics,Bluetooth Headphones,1,49.99,10.0,44.99,28.0,16.99,Cash on Delivery,Cancelled,
+ORD00946,2025-08-05,CUST0257,New,Hyderabad,Books,Marketing Essentials,2,22.99,0.0,45.98,18.0,27.98,Cash on Delivery,Cancelled,
+ORD00947,2025-03-22,CUST0206,Returning,Hyderabad,Clothing,Cotton T-Shirt,2,19.99,20.0,31.98,16.0,15.98,Cash on Delivery,Delivered,4.0
+ORD00948,2025-04-05,CUST0161,Returning,Jaipur,Sports,Fitness Tracker,3,89.99,15.0,229.47,165.0,64.47,Cash on Delivery,Delivered,8.0
+ORD00949,2025-03-26,CUST0040,Returning,Chennai,Electronics,USB-C Charger,2,22.5,0.0,45.0,22.5,22.5,UPI,Delivered,2.0
+ORD00950,2025-05-03,CUST0006,Loyal,Delhi,Clothing,Hoodie,2,39.99,0.0,79.98,38.0,41.98,Credit Card,Cancelled,
+ORD00951,2025-10-10,CUST0023,Returning,Ahmedabad,Home & Kitchen,Water Bottle,1,16.99,0.0,16.99,7.0,9.99,UPI,Cancelled,
+ORD00952,2025-01-25,CUST0204,Returning,Chennai,Clothing,Cotton T-Shirt,4,19.99,0.0,79.96,32.0,47.96,Cash on Delivery,Delivered,5.0
+ORD00953,2025-07-02,CUST0052,Returning,Bengaluru,Home & Kitchen,Water Bottle,1,16.99,15.0,14.44,7.0,7.44,UPI,Cancelled,
+ORD00954,2025-10-28,CUST0078,Returning,Mumbai,Books,Productivity Journal,2,14.99,15.0,25.48,10.0,15.48,UPI,Delivered,3.0
+ORD00955,2025-04-29,CUST0175,Returning,Bengaluru,Home & Kitchen,Coffee Maker,3,79.99,0.0,239.97,144.0,95.97,Debit Card,Cancelled,
+ORD00956,2025-05-29,CUST0123,New,Kochi,Clothing,Jeans,3,49.99,5.0,142.47,78.0,64.47,Net Banking,Returned,7.0
+ORD00957,2025-02-08,CUST0159,Returning,Mumbai,Home & Kitchen,Blender,2,64.99,5.0,123.48,78.0,45.48,Cash on Delivery,Delivered,3.0
+ORD00958,2025-02-18,CUST0187,Returning,Mumbai,Books,Python for Beginners,1,27.99,0.0,27.99,11.0,16.99,Credit Card,Delivered,5.0
+ORD00959,2025-12-30,CUST0064,Loyal,Ahmedabad,Books,Python for Beginners,5,27.99,20.0,111.96,55.0,56.96,UPI,Delivered,3.0
+ORD00960,2025-07-06,CUST0226,Returning,Kochi,Clothing,Backpack,1,44.99,10.0,40.49,23.0,17.49,Debit Card,Returned,3.0
+ORD00961,2025-07-11,CUST0030,Returning,Hyderabad,Electronics,Laptop Stand,2,34.99,0.0,69.98,36.0,33.98,Net Banking,Returned,1.0
+ORD00962,2025-01-05,CUST0115,Returning,Ahmedabad,Home & Kitchen,Water Bottle,1,16.99,0.0,16.99,7.0,9.99,UPI,Delivered,2.0
+ORD00963,2025-06-28,CUST0044,New,Mumbai,Books,Productivity Journal,2,14.99,15.0,25.48,10.0,15.48,Cash on Delivery,Delivered,2.0
+ORD00964,2025-08-10,CUST0249,New,Ahmedabad,Home & Kitchen,Desk Lamp,1,29.99,0.0,29.99,14.0,15.99,UPI,Cancelled,
+ORD00965,2025-05-23,CUST0164,Returning,Kochi,Books,Data Analytics Basics,2,24.99,15.0,42.48,20.0,22.48,Cash on Delivery,Delivered,4.0
+ORD00966,2025-02-01,CUST0217,New,Bengaluru,Clothing,Backpack,5,44.99,0.0,224.95,115.0,109.95,UPI,Delivered,1.0
+ORD00967,2025-03-14,CUST0215,Returning,Delhi,Electronics,USB-C Charger,1,22.5,0.0,22.5,11.25,11.25,Credit Card,Returned,8.0
+ORD00968,2025-01-28,CUST0179,Loyal,Ahmedabad,Electronics,Laptop Stand,1,34.99,10.0,31.49,18.0,13.49,Cash on Delivery,Delivered,4.0
+ORD00969,2025-10-02,CUST0102,New,Kochi,Home & Kitchen,Desk Lamp,1,29.99,10.0,26.99,14.0,12.99,Net Banking,Delivered,1.0
+ORD00970,2025-03-16,CUST0163,New,Jaipur,Clothing,Running Shoes,1,74.99,15.0,63.74,42.0,21.74,Debit Card,Delivered,8.0
+ORD00971,2025-09-24,CUST0050,New,Hyderabad,Electronics,Laptop Stand,4,34.99,15.0,118.97,72.0,46.97,Cash on Delivery,Returned,8.0
+ORD00972,2025-12-23,CUST0008,Returning,Chennai,Sports,Resistance Bands,2,14.99,0.0,29.98,11.0,18.98,UPI,Delivered,4.0
+ORD00973,2025-06-04,CUST0212,Returning,Chennai,Clothing,Jeans,3,49.99,0.0,149.97,78.0,71.97,Net Banking,Delivered,8.0
+ORD00974,2025-08-07,CUST0091,Returning,Bengaluru,Sports,Gym Bottle,1,11.99,0.0,11.99,4.0,7.99,Net Banking,Delivered,6.0
+ORD00975,2025-08-12,CUST0051,Loyal,Mumbai,Books,Python for Beginners,3,27.99,10.0,75.57,33.0,42.57,UPI,Delivered,5.0
+ORD00976,2025-11-29,CUST0228,Returning,Pune,Electronics,Webcam,4,59.99,0.0,239.96,140.0,99.96,Debit Card,Returned,2.0
+ORD00977,2025-08-04,CUST0241,Loyal,Chennai,Home & Kitchen,Coffee Maker,3,79.99,10.0,215.97,144.0,71.97,Cash on Delivery,Delivered,4.0
+ORD00978,2025-07-31,CUST0146,New,Delhi,Books,Data Analytics Basics,4,24.99,10.0,89.96,40.0,49.96,Debit Card,Cancelled,
+ORD00979,2025-08-01,CUST0079,Loyal,Kolkata,Home & Kitchen,Water Bottle,4,16.99,5.0,64.56,28.0,36.56,Net Banking,Delivered,1.0
+ORD00980,2025-06-12,CUST0099,Returning,Jaipur,Clothing,Hoodie,4,39.99,20.0,127.97,76.0,51.97,UPI,Delivered,7.0
+ORD00981,2025-10-23,CUST0207,Loyal,Kolkata,Books,Business Strategy Guide,4,29.99,5.0,113.96,52.0,61.96,Credit Card,Returned,3.0
+ORD00982,2025-08-12,CUST0134,Loyal,Bengaluru,Home & Kitchen,Water Bottle,2,16.99,0.0,33.98,14.0,19.98,Debit Card,Delivered,7.0
+ORD00983,2025-04-15,CUST0079,New,Kolkata,Electronics,Wireless Mouse,1,18.99,0.0,18.99,9.5,9.49,UPI,Cancelled,
+ORD00984,2025-10-20,CUST0096,New,Hyderabad,Books,Data Analytics Basics,3,24.99,0.0,74.97,30.0,44.97,Debit Card,Delivered,6.0
+ORD00985,2025-04-10,CUST0027,New,Bengaluru,Sports,Resistance Bands,3,14.99,15.0,38.22,16.5,21.72,UPI,Delivered,5.0
+ORD00986,2025-11-23,CUST0073,New,Bengaluru,Sports,Yoga Mat,1,27.99,15.0,23.79,12.0,11.79,UPI,Delivered,2.0
+ORD00987,2025-02-09,CUST0012,Returning,Ahmedabad,Books,Python for Beginners,4,27.99,0.0,111.96,44.0,67.96,UPI,Delivered,8.0
+ORD00988,2025-04-18,CUST0093,New,Bengaluru,Books,Productivity Journal,4,14.99,10.0,53.96,20.0,33.96,Net Banking,Delivered,3.0
+ORD00989,2025-11-20,CUST0003,New,Delhi,Sports,Yoga Mat,1,27.99,0.0,27.99,12.0,15.99,UPI,Delivered,8.0
+ORD00990,2025-04-09,CUST0187,New,Hyderabad,Sports,Yoga Mat,2,27.99,5.0,53.18,24.0,29.18,UPI,Delivered,4.0
+ORD00991,2025-06-17,CUST0141,Returning,Mumbai,Home & Kitchen,Coffee Maker,1,79.99,10.0,71.99,48.0,23.99,Debit Card,Delivered,5.0
+ORD00992,2025-12-29,CUST0099,New,Hyderabad,Sports,Gym Bottle,2,11.99,15.0,20.38,8.0,12.38,Debit Card,Delivered,7.0
+ORD00993,2025-07-21,CUST0250,Returning,Ahmedabad,Electronics,Webcam,3,59.99,10.0,161.97,105.0,56.97,Cash on Delivery,Delivered,4.0
+ORD00994,2025-11-02,CUST0181,Returning,Mumbai,Clothing,Running Shoes,2,74.99,10.0,134.98,84.0,50.98,Cash on Delivery,Delivered,4.0
+ORD00995,2025-03-27,CUST0181,Returning,Mumbai,Electronics,Webcam,1,59.99,5.0,56.99,35.0,21.99,Credit Card,Cancelled,
+ORD00996,2025-06-15,CUST0191,New,Chennai,Books,Business Strategy Guide,1,29.99,0.0,29.99,13.0,16.99,UPI,Returned,6.0
+ORD00997,2025-01-05,CUST0165,Loyal,Kolkata,Clothing,Cotton T-Shirt,2,19.99,0.0,39.98,16.0,23.98,UPI,Cancelled,
+ORD00998,2025-07-17,CUST0143,Returning,Mumbai,Clothing,Jeans,1,49.99,0.0,49.99,26.0,23.99,Net Banking,Cancelled,
+ORD00999,2025-11-27,CUST0253,Returning,Delhi,Books,Productivity Journal,1,14.99,0.0,14.99,5.0,9.99,Cash on Delivery,Delivered,1.0
+ORD01000,2025-03-03,CUST0011,New,Kochi,Electronics,Laptop Stand,1,34.99,0.0,34.99,18.0,16.99,UPI,Delivered,4.0
