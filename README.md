@@ -32,7 +32,7 @@ The Power BI dashboard presents key sales and profitability metrics, monthly sal
 
 
 ## Project Structure
-
+```text
 Ecommerce-Sales-Customer-Analytics/
 ├── data/
 │   ├── raw/
@@ -46,7 +46,7 @@ Ecommerce-Sales-Customer-Analytics/
 ├── load.py
 ├── run_sql.py
 └── README.md
-
+```
 
 ## Dashboard Preview
 
